@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自動化工具集 | Automation Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #0F172A;
+            --secondary: #1E293B;
+            --accent: #6366F1;
+            --accent2: #F97316;
+            --text-light: #F8FAFC;
+            --text-muted: #94A3B8;
+            --border: #334155;
+            --success: #10B981;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Noto Sans TC', 'Space Grotesk', sans-serif;
+            background: var(--primary);
+            color: var(--text-light);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        .hero {
+            background: linear-gradient(135deg, #0F172A 0%, #1E1B4B 100%);
+            padding: 80px 20px;
+            text-align: center;
+            border-bottom: 1px solid var(--border);
+        }
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 16px;
+            background: linear-gradient(135deg, #6366F1, #F97316);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero p { color: var(--text-muted); font-size: 1.2rem; max-width: 600px; margin: 0 auto; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+        .section-title { font-size: 1.5rem; font-weight: 600; margin-bottom: 24px; color: var(--text-light); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
+        .card {
+            background: var(--secondary);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 28px;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .card:hover { transform: translateY(-4px); border-color: var(--accent); }
+        .card-icon { font-size: 2rem; margin-bottom: 16px; }
+        .card h3 { font-size: 1.2rem; margin-bottom: 8px; }
+        .card p { color: var(--text-muted); font-size: 0.95rem; }
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-top: 12px;
+        }
+        .badge-active { background: rgba(16, 185, 129, 0.15); color: var(--success); }
+        .badge-soon { background: rgba(99, 102, 241, 0.15); color: var(--accent); }
+        .cron-table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+        .cron-table th, .cron-table td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+        .cron-table th { color: var(--text-muted); font-size: 0.85rem; }
+        .cron-table td { font-family: 'Space Grotesk', monospace; font-size: 0.9rem; }
+        .cta-section {
+            background: linear-gradient(135deg, #1E293B, #312E81);
+            border-radius: 20px;
+            padding: 48px;
+            text-align: center;
+            margin-top: 40px;
+        }
+        .cta-section h2 { font-size: 1.8rem; margin-bottom: 12px; }
+        .cta-section p { color: var(--text-muted); margin-bottom: 24px; }
+        .cta-btn {
+            display: inline-block;
+            padding: 14px 32px;
+            background: var(--accent);
+            color: white;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+        .cta-btn:hover { background: #4F46E5; }
+        footer { text-align: center; padding: 32px; color: var(--text-muted); font-size: 0.85rem; border-top: 1px solid var(--border); margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>⚡ 自動化工具集</h1>
+        <p>24/7 自動化開發系統 — 智慧工作流、每日摘要、跨平台整合</p>
+    </div>
+    <div class="container">
+        <h2 class="section-title">📋 當前自動化工作</h2>
+        <div class="grid">
+            <div class="card">
+                <div class="card-icon">🌅</div>
+                <h3>每日系統更新</h3>
+                <p>每日 05:00 自動執行系統更新，確保所有元件運行在最新版本</p>
+                <span class="badge badge-active">✅ 運行中</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">🔍</div>
+                <h3>技能掃描</h3>
+                <p>每日 06:00 掃描並更新可用技能列表，保持能力地圖最新</p>
+                <span class="badge badge-active">✅ 運行中</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">📊</div>
+                <h3>每小時進度檢查</h3>
+                <p>每小時檢查執行中的專案進度，有進展或問題時主動回報</p>
+                <span class="badge badge-soon">🚀 即將上線</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">📝</div>
+                <h3>每日摘要</h3>
+                <p>每日 09:00 生成昨日專案摘要，包含完成工作、待解決問題、本日重點</p>
+                <span class="badge badge-soon">🚀 即將上線</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">📅</div>
+                <h3>每週回顧</h3>
+                <p>每週一 09:00 執行每週專案回顧，回顧上週進度並規劃本週目標</p>
+                <span class="badge badge-soon">🚀 即將上線</span>
+            </div>
+            <div class="card">
+                <div class="card-icon">🔧</div>
+                <h3>維護任務</h3>
+                <p>自動化記憶體備份、API 配額檢查、效能優化與設定健檢</p>
+                <span class="badge badge-soon">🚀 即將上線</span>
+            </div>
+        </div>
+
+        <h2 class="section-title" style="margin-top: 48px;">⏰ Cron 工作排程</h2>
+        <div class="card" style="overflow-x:auto;">
+            <table class="cron-table">
+                <thead>
+                    <tr>
+                        <th>工作名稱</th>
+                        <th>排程</th>
+                        <th>用途</th>
+                        <th>狀態</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>daily-update</td>
+                        <td>0 5 * * *</td>
+                        <td>系統更新</td>
+                        <td style="color: var(--success);">✅ 啟用</td>
+                    </tr>
+                    <tr>
+                        <td>daily-skill-scan</td>
+                        <td>0 6 * * *</td>
+                        <td>技能掃描</td>
+                        <td style="color: var(--success);">✅ 啟用</td>
+                    </tr>
+                    <tr>
+                        <td>project-check</td>
+                        <td>0 * * * *</td>
+                        <td>專案進度檢查</td>
+                        <td style="color: var(--accent);">⏳ 規劃中</td>
+                    </tr>
+                    <tr>
+                        <td>daily-summary</td>
+                        <td>0 9 * * *</td>
+                        <td>每日摘要</td>
+                        <td style="color: var(--accent);">⏳ 規劃中</td>
+                    </tr>
+                    <tr>
+                        <td>weekly-review</td>
+                        <td>0 9 * * 1</td>
+                        <td>每週回顧</td>
+                        <td style="color: var(--accent);">⏳ 規劃中</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="cta-section">
+            <h2>🤖 需要建立新自動化流程？</h2>
+            <p>告訴我你的需求，我會自動拆解任務、設定排程並執行</p>
+            <a href="#" class="cta-btn">開始使用 →</a>
+        </div>
+    </div>
+    <footer>
+        <p>自動化工具集 · OpenClaw · 24/7 全天候運行</p>
+    </footer>
+</body>
+</html>

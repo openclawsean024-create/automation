@@ -48,3 +48,18 @@ body {
   transform: translateY(-4px);
   border-color: var(--accent);
 }
+
+/* Custom scrollbar for category tabs */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 4px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #3f3f46;
+  border-radius: 9999px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #52525b;
+}
