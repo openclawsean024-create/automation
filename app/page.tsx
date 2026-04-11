@@ -19,16 +19,10 @@ const TOP_CATEGORIES = [
 ];
 
 function SkillCard({ skill, index }: { skill: Skill; index: number }) {
-  const isTop3 = index < 3;
   const medal = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : null;
 
   return (
-    <a
-      href={skill.url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="group block bg-[#111111] border border-[#222222] rounded-xl p-4 hover:border-[#7c3aed] hover:bg-[#1a1a1a] transition-all duration-200"
-    >
+    <div className="group block bg-[#111111] border border-[#222222] rounded-xl p-4 hover:border-[#7c3aed] hover:bg-[#1a1a1a] transition-all duration-200">
       <div className="flex items-start gap-3">
         {medal ? (
           <span className="text-xl flex-shrink-0 mt-0.5">{medal}</span>
@@ -39,9 +33,14 @@ function SkillCard({ skill, index }: { skill: Skill; index: number }) {
         )}
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <h3 className="font-semibold text-[#ededed] group-hover:text-white truncate">
+            <a
+              href={skill.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-[#ededed] group-hover:text-white truncate"
+            >
               {skill.name}
-            </h3>
+            </a>
           </div>
           <div className="flex items-center gap-2 mt-1.5 flex-wrap">
             <span className="text-xs px-2 py-0.5 rounded-full bg-[#7c3aed22] text-[#a78bfa] border border-[#7c3aed44]">
@@ -49,27 +48,38 @@ function SkillCard({ skill, index }: { skill: Skill; index: number }) {
             </span>
             <span className="text-xs text-[#555555] font-mono">{skill.slug}</span>
           </div>
+          <div className="flex items-center gap-3 mt-2 text-xs text-[#888888] flex-wrap">
+            <span>⭐ {skill.stars ?? '—'}</span>
+            {skill.githubUrl ? (
+              <a
+                href={skill.githubUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#7c3aed] hover:text-[#a78bfa]"
+              >
+                GitHub repo
+              </a>
+            ) : null}
+          </div>
         </div>
         <div className="flex-shrink-0 text-right">
           <div className="text-sm font-bold text-[#7c3aed]">{skill.score.toFixed(2)}</div>
           <div className="text-xs text-[#444444]">score</div>
         </div>
       </div>
-    </a>
+    </div>
   );
 }
 
 export default function HomePage() {
   const [query, setQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState<string>('全部');
-  const [showAll, setShowAll] = useState(false);
-
   const filtered = useMemo(
     () => filterSkills(skills, query, activeCategory as any),
     [query, activeCategory]
   );
 
-  const displayed = showAll ? filtered : filtered.slice(0, 50);
+  const displayed = filtered;
 
   const catCount = (cat: string) =>
     cat === '全部' ? skills.length : skills.filter((s) => s.category === cat).length;
@@ -183,20 +193,8 @@ export default function HomePage() {
           {/* Results Info */}
           <div className="flex items-center justify-between mb-4">
             <div className="text-sm text-[#666666]">
-              {query || activeCategory !== '全部' ? (
-                <>找到 <span className="text-[#ededed] font-medium">{filtered.length}</span> 個符合的 skills</>
-              ) : (
-                <>顯示 <span className="text-[#ededed] font-medium">{Math.min(50, filtered.length)}</span> / {filtered.length} 熱門 skills</>
-              )}
+              <>找到 <span className="text-[#ededed] font-medium">{filtered.length}</span> 個 skills</>
             </div>
-            {query || activeCategory !== '全部' ? null : (
-              <button
-                onClick={() => setShowAll(!showAll)}
-                className="text-xs text-[#7c3aed] hover:text-[#a78bfa] transition-colors"
-              >
-                {showAll ? '收起' : `查看全部 ${filtered.length} →`}
-              </button>
-            )}
           </div>
 
           {/* Skills List */}

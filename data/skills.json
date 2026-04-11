@@ -5,7 +5,8 @@
     "score": 3.817,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation",
-    "rank": 1
+    "rank": 1,
+    "stars": 47
   },
   {
     "slug": "n8n-workflow-automation",
@@ -13,7 +14,8 @@
     "score": 3.797,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-workflow-automation",
-    "rank": 2
+    "rank": 2,
+    "stars": 115
   },
   {
     "slug": "browser-automation-stealth",
@@ -21,7 +23,8 @@
     "score": 3.656,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-stealth",
-    "rank": 3
+    "rank": 3,
+    "stars": 0
   },
   {
     "slug": "browser-automation-v2",
@@ -29,7 +32,8 @@
     "score": 3.562,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-v2",
-    "rank": 4
+    "rank": 4,
+    "stars": 0
   },
   {
     "slug": "n8n-workflow-automation-1-0-0",
@@ -37,7 +41,8 @@
     "score": 3.557,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-workflow-automation-1-0-0",
-    "rank": 5
+    "rank": 5,
+    "stars": 0
   },
   {
     "slug": "browser-automation-cdp",
@@ -45,7 +50,8 @@
     "score": 3.469,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-cdp",
-    "rank": 6
+    "rank": 6,
+    "stars": 1
   },
   {
     "slug": "browser-automation-1",
@@ -53,7 +59,8 @@
     "score": 3.456,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-1",
-    "rank": 7
+    "rank": 7,
+    "stars": 0
   },
   {
     "slug": "automation-browser",
@@ -61,7 +68,8 @@
     "score": 3.442,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/automation-browser",
-    "rank": 8
+    "rank": 8,
+    "stars": 0
   },
   {
     "slug": "browser-automation-2",
@@ -69,7 +77,8 @@
     "score": 3.438,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-2",
-    "rank": 9
+    "rank": 9,
+    "stars": 2
   },
   {
     "slug": "workflow-automation-cn",
@@ -77,7 +86,8 @@
     "score": 3.425,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow-automation-cn",
-    "rank": 10
+    "rank": 10,
+    "stars": 0
   },
   {
     "slug": "ai-workflow-automation",
@@ -85,7 +95,8 @@
     "score": 3.419,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/ai-workflow-automation",
-    "rank": 11
+    "rank": 11,
+    "stars": 0
   },
   {
     "slug": "n8n-workflow-automation-litiao",
@@ -93,7 +104,8 @@
     "score": 3.406,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-workflow-automation-litiao",
-    "rank": 12
+    "rank": 12,
+    "stars": 0
   },
   {
     "slug": "agent-automation-scripter",
@@ -101,7 +113,8 @@
     "score": 3.389,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-automation-scripter",
-    "rank": 13
+    "rank": 13,
+    "stars": 0
   },
   {
     "slug": "n8n-workflow-automation-local-backup",
@@ -109,7 +122,8 @@
     "score": 3.387,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-workflow-automation-local-backup",
-    "rank": 14
+    "rank": 14,
+    "stars": 0
   },
   {
     "slug": "jpeng-workflow-automation",
@@ -117,7 +131,8 @@
     "score": 3.385,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/jpeng-workflow-automation",
-    "rank": 15
+    "rank": 15,
+    "stars": 0
   },
   {
     "slug": "claw-browser-automation-skill",
@@ -125,7 +140,8 @@
     "score": 3.379,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/claw-browser-automation-skill",
-    "rank": 16
+    "rank": 16,
+    "stars": 0
   },
   {
     "slug": "openclaw-workflow-automation",
@@ -133,7 +149,8 @@
     "score": 3.375,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/openclaw-workflow-automation",
-    "rank": 17
+    "rank": 17,
+    "stars": 0
   },
   {
     "slug": "se-browser-automation",
@@ -141,7 +158,8 @@
     "score": 3.36,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/se-browser-automation",
-    "rank": 18
+    "rank": 18,
+    "stars": 0
   },
   {
     "slug": "oc-browser-automation-1-0-0",
@@ -149,7 +167,8 @@
     "score": 3.351,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/oc-browser-automation-1-0-0",
-    "rank": 19
+    "rank": 19,
+    "stars": 0
   },
   {
     "slug": "browser-automation-skills",
@@ -157,7 +176,8 @@
     "score": 3.347,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-skills",
-    "rank": 20
+    "rank": 20,
+    "stars": 0
   },
   {
     "slug": "workflow-automation-evm-wallets",
@@ -165,7 +185,8 @@
     "score": 3.343,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow-automation-evm-wallets",
-    "rank": 21
+    "rank": 21,
+    "stars": 1
   },
   {
     "slug": "claw-browser-automation",
@@ -173,7 +194,8 @@
     "score": 3.283,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/claw-browser-automation",
-    "rank": 22
+    "rank": 22,
+    "stars": 0
   },
   {
     "slug": "openclaw-browser-automation-1-0-1",
@@ -181,7 +203,8 @@
     "score": 3.235,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/openclaw-browser-automation-1-0-1",
-    "rank": 23
+    "rank": 23,
+    "stars": 0
   },
   {
     "slug": "browser-automation-clawdbot",
@@ -189,7 +212,8 @@
     "score": 3.213,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-clawdbot",
-    "rank": 24
+    "rank": 24,
+    "stars": 0
   },
   {
     "slug": "agentic-workflow-automation",
@@ -197,7 +221,8 @@
     "score": 2.526,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agentic-workflow-automation",
-    "rank": 25
+    "rank": 25,
+    "stars": 5
   },
   {
     "slug": "ai-automation-workflows",
@@ -205,7 +230,8 @@
     "score": 2.521,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/ai-automation-workflows",
-    "rank": 26
+    "rank": 26,
+    "stars": 1
   },
   {
     "slug": "browser-automation-ctrl",
@@ -213,7 +239,8 @@
     "score": 2.382,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-automation-ctrl",
-    "rank": 27
+    "rank": 27,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-temp",
@@ -221,7 +248,8 @@
     "score": 2.371,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-temp",
-    "rank": 28
+    "rank": 28,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-moss",
@@ -229,7 +257,8 @@
     "score": 2.362,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-moss",
-    "rank": 29
+    "rank": 29,
+    "stars": 0
   },
   {
     "slug": "sunshine-automation-workflows",
@@ -237,7 +266,8 @@
     "score": 2.356,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/sunshine-automation-workflows",
-    "rank": 30
+    "rank": 30,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-litiao",
@@ -245,7 +275,8 @@
     "score": 2.342,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-litiao",
-    "rank": 31
+    "rank": 31,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-conflict",
@@ -253,7 +284,8 @@
     "score": 2.34,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-conflict",
-    "rank": 32
+    "rank": 32,
+    "stars": 0
   },
   {
     "slug": "task-automation-workflows",
@@ -261,7 +293,8 @@
     "score": 2.3,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/task-automation-workflows",
-    "rank": 33
+    "rank": 33,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-v2",
@@ -269,7 +302,8 @@
     "score": 2.295,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-v2",
-    "rank": 34
+    "rank": 34,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-local",
@@ -277,7 +311,8 @@
     "score": 2.245,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-local",
-    "rank": 35
+    "rank": 35,
+    "stars": 0
   },
   {
     "slug": "oc-browser-automation",
@@ -285,7 +320,8 @@
     "score": 2.24,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/oc-browser-automation",
-    "rank": 36
+    "rank": 36,
+    "stars": 0
   },
   {
     "slug": "automation-workflows-0-1-0-custom",
@@ -293,7 +329,8 @@
     "score": 2.219,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automation-workflows-0-1-0-custom",
-    "rank": 37
+    "rank": 37,
+    "stars": 1
   },
   {
     "slug": "browser-pc",
@@ -301,7 +338,8 @@
     "score": 2.217,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-pc",
-    "rank": 38
+    "rank": 38,
+    "stars": 0
   },
   {
     "slug": "agentic-workflow-automation-v2",
@@ -309,7 +347,8 @@
     "score": 2.171,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agentic-workflow-automation-v2",
-    "rank": 39
+    "rank": 39,
+    "stars": 0
   },
   {
     "slug": "n8n-automation-berzaf",
@@ -317,7 +356,8 @@
     "score": 1.88,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-automation-berzaf",
-    "rank": 40
+    "rank": 40,
+    "stars": 0
   },
   {
     "slug": "superdesign",
@@ -325,7 +365,8 @@
     "score": 1.357,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/superdesign",
-    "rank": 41
+    "rank": 41,
+    "stars": 151
   },
   {
     "slug": "notion",
@@ -333,7 +374,8 @@
     "score": 1.302,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion",
-    "rank": 42
+    "rank": 42,
+    "stars": 227
   },
   {
     "slug": "agent-browser-clawdbot",
@@ -341,7 +383,8 @@
     "score": 1.294,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-browser-clawdbot",
-    "rank": 43
+    "rank": 43,
+    "stars": 295
   },
   {
     "slug": "automation-workflows",
@@ -349,7 +392,8 @@
     "score": 1.287,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/automation-workflows",
-    "rank": 44
+    "rank": 44,
+    "stars": 252
   },
   {
     "slug": "frontend-design-3",
@@ -357,7 +401,8 @@
     "score": 1.274,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-3",
-    "rank": 45
+    "rank": 45,
+    "stars": 39
   },
   {
     "slug": "ui-ux-pro-max",
@@ -365,7 +410,8 @@
     "score": 1.266,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-pro-max",
-    "rank": 46
+    "rank": 46,
+    "stars": 122
   },
   {
     "slug": "ui-ux-design",
@@ -373,7 +419,8 @@
     "score": 1.259,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-design",
-    "rank": 47
+    "rank": 47,
+    "stars": 23
   },
   {
     "slug": "browser-use",
@@ -381,7 +428,8 @@
     "score": 1.249,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-use",
-    "rank": 48
+    "rank": 48,
+    "stars": 84
   },
   {
     "slug": "agent-autonomy-kit",
@@ -389,7 +437,8 @@
     "score": 1.23,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-autonomy-kit",
-    "rank": 49
+    "rank": 49,
+    "stars": 67
   },
   {
     "slug": "n8n",
@@ -397,7 +446,8 @@
     "score": 1.226,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n",
-    "rank": 50
+    "rank": 50,
+    "stars": 51
   },
   {
     "slug": "opencode-controller",
@@ -405,7 +455,8 @@
     "score": 1.226,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/opencode-controller",
-    "rank": 51
+    "rank": 51,
+    "stars": 72
   },
   {
     "slug": "productivity",
@@ -413,7 +464,8 @@
     "score": 1.223,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/productivity",
-    "rank": 52
+    "rank": 52,
+    "stars": 52
   },
   {
     "slug": "devops",
@@ -421,7 +473,8 @@
     "score": 1.209,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/devops",
-    "rank": 53
+    "rank": 53,
+    "stars": 4
   },
   {
     "slug": "fast-browser-use",
@@ -429,7 +482,8 @@
     "score": 1.205,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/fast-browser-use",
-    "rank": 54
+    "rank": 54,
+    "stars": 41
   },
   {
     "slug": "stealth-browser",
@@ -437,7 +491,8 @@
     "score": 1.204,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/stealth-browser",
-    "rank": 55
+    "rank": 55,
+    "stars": 22
   },
   {
     "slug": "windows-ui-automation",
@@ -445,7 +500,8 @@
     "score": 1.199,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/windows-ui-automation",
-    "rank": 56
+    "rank": 56,
+    "stars": 10
   },
   {
     "slug": "shadcn-ui",
@@ -453,7 +509,8 @@
     "score": 1.193,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/shadcn-ui",
-    "rank": 57
+    "rank": 57,
+    "stars": 8
   },
   {
     "slug": "ai-agent-helper",
@@ -461,7 +518,8 @@
     "score": 1.192,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/ai-agent-helper",
-    "rank": 58
+    "rank": 58,
+    "stars": 4
   },
   {
     "slug": "frontend",
@@ -469,7 +527,8 @@
     "score": 1.191,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend",
-    "rank": 59
+    "rank": 59,
+    "stars": 15
   },
   {
     "slug": "agent-browser-stagehand",
@@ -477,7 +536,8 @@
     "score": 1.188,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-stagehand",
-    "rank": 60
+    "rank": 60,
+    "stars": 4
   },
   {
     "slug": "browserwing",
@@ -485,7 +545,8 @@
     "score": 1.185,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browserwing",
-    "rank": 61
+    "rank": 61,
+    "stars": 1
   },
   {
     "slug": "agent-team-orchestration",
@@ -493,7 +554,8 @@
     "score": 1.184,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-team-orchestration",
-    "rank": 62
+    "rank": 62,
+    "stars": 53
   },
   {
     "slug": "ai-web-automation",
@@ -501,7 +563,8 @@
     "score": 1.18,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-web-automation",
-    "rank": 63
+    "rank": 63,
+    "stars": 10
   },
   {
     "slug": "stagehand-browser-cli",
@@ -509,7 +572,8 @@
     "score": 1.18,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/stagehand-browser-cli",
-    "rank": 64
+    "rank": 64,
+    "stars": 1
   },
   {
     "slug": "ui-skills",
@@ -517,7 +581,8 @@
     "score": 1.18,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-skills",
-    "rank": 65
+    "rank": 65,
+    "stars": 5
   },
   {
     "slug": "data-analysis",
@@ -525,7 +590,8 @@
     "score": 1.18,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analysis",
-    "rank": 66
+    "rank": 66,
+    "stars": 82
   },
   {
     "slug": "browse",
@@ -533,7 +599,8 @@
     "score": 1.177,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browse",
-    "rank": 67
+    "rank": 67,
+    "stars": 5
   },
   {
     "slug": "ui-ux-pro-max-plus",
@@ -541,7 +608,8 @@
     "score": 1.158,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-pro-max-plus",
-    "rank": 68
+    "rank": 68,
+    "stars": 6
   },
   {
     "slug": "agent-orchestrator",
@@ -549,7 +617,8 @@
     "score": 1.156,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-orchestrator",
-    "rank": 69
+    "rank": 69,
+    "stars": 29
   },
   {
     "slug": "agent-browser-3",
@@ -557,7 +626,8 @@
     "score": 1.151,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-3",
-    "rank": 70
+    "rank": 70,
+    "stars": 23
   },
   {
     "slug": "deploy",
@@ -565,7 +635,8 @@
     "score": 1.147,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploy",
-    "rank": 71
+    "rank": 71,
+    "stars": 3
   },
   {
     "slug": "frontend-design-pro",
@@ -573,7 +644,8 @@
     "score": 1.142,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-pro",
-    "rank": 72
+    "rank": 72,
+    "stars": 7
   },
   {
     "slug": "agent-browser-2",
@@ -581,7 +653,8 @@
     "score": 1.139,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-2",
-    "rank": 73
+    "rank": 73,
+    "stars": 4
   },
   {
     "slug": "agent-builder",
@@ -589,7 +662,8 @@
     "score": 1.138,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-builder",
-    "rank": 74
+    "rank": 74,
+    "stars": 26
   },
   {
     "slug": "zoho-bigin",
@@ -597,7 +671,8 @@
     "score": 1.136,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/zoho-bigin",
-    "rank": 75
+    "rank": 75,
+    "stars": 4
   },
   {
     "slug": "sql-toolkit",
@@ -605,7 +680,8 @@
     "score": 1.131,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sql-toolkit",
-    "rank": 76
+    "rank": 76,
+    "stars": 38
   },
   {
     "slug": "security-auditor",
@@ -613,7 +689,8 @@
     "score": 1.131,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-auditor",
-    "rank": 77
+    "rank": 77,
+    "stars": 29
   },
   {
     "slug": "n8n-automation",
@@ -621,7 +698,8 @@
     "score": 1.13,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-automation",
-    "rank": 78
+    "rank": 78,
+    "stars": 9
   },
   {
     "slug": "agent-directory",
@@ -629,7 +707,8 @@
     "score": 1.13,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-directory",
-    "rank": 79
+    "rank": 79,
+    "stars": 15
   },
   {
     "slug": "browser-cash",
@@ -637,7 +716,8 @@
     "score": 1.124,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-cash",
-    "rank": 80
+    "rank": 80,
+    "stars": 4
   },
   {
     "slug": "attio-api",
@@ -645,7 +725,8 @@
     "score": 1.122,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/attio-api",
-    "rank": 81
+    "rank": 81,
+    "stars": 3
   },
   {
     "slug": "data-analyst-pro",
@@ -653,7 +734,8 @@
     "score": 1.122,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analyst-pro",
-    "rank": 82
+    "rank": 82,
+    "stars": 5
   },
   {
     "slug": "agent-browser-tekken",
@@ -661,7 +743,8 @@
     "score": 1.12,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-tekken",
-    "rank": 83
+    "rank": 83,
+    "stars": 9
   },
   {
     "slug": "us-stock-analysis",
@@ -669,7 +752,8 @@
     "score": 1.12,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/us-stock-analysis",
-    "rank": 84
+    "rank": 84,
+    "stars": 53
   },
   {
     "slug": "frontend-design-ultimate",
@@ -677,7 +761,8 @@
     "score": 1.119,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-ultimate",
-    "rank": 85
+    "rank": 85,
+    "stars": 59
   },
   {
     "slug": "cicd-pipeline",
@@ -685,7 +770,8 @@
     "score": 1.119,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/cicd-pipeline",
-    "rank": 86
+    "rank": 86,
+    "stars": 2
   },
   {
     "slug": "agent-browser-core",
@@ -693,7 +779,8 @@
     "score": 1.117,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-browser-core",
-    "rank": 87
+    "rank": 87,
+    "stars": 20
   },
   {
     "slug": "focus-deep-work",
@@ -701,7 +788,8 @@
     "score": 1.117,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/focus-deep-work",
-    "rank": 88
+    "rank": 88,
+    "stars": 9
   },
   {
     "slug": "deploy-agent",
@@ -709,7 +797,8 @@
     "score": 1.116,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploy-agent",
-    "rank": 89
+    "rank": 89,
+    "stars": 2
   },
   {
     "slug": "workflow",
@@ -717,7 +806,8 @@
     "score": 1.115,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow",
-    "rank": 90
+    "rank": 90,
+    "stars": 3
   },
   {
     "slug": "agent-browser-cli",
@@ -725,7 +815,8 @@
     "score": 1.114,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-cli",
-    "rank": 91
+    "rank": 91,
+    "stars": 2
   },
   {
     "slug": "perry-coding-agents",
@@ -733,7 +824,8 @@
     "score": 1.11,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/perry-coding-agents",
-    "rank": 92
+    "rank": 92,
+    "stars": 2
   },
   {
     "slug": "coding-agent-backup",
@@ -741,7 +833,8 @@
     "score": 1.106,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/coding-agent-backup",
-    "rank": 93
+    "rank": 93,
+    "stars": 1
   },
   {
     "slug": "multi-agent-cn",
@@ -749,7 +842,8 @@
     "score": 1.105,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/multi-agent-cn",
-    "rank": 94
+    "rank": 94,
+    "stars": 24
   },
   {
     "slug": "automation-workflows-0-1-0",
@@ -757,7 +851,8 @@
     "score": 1.102,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/automation-workflows-0-1-0",
-    "rank": 95
+    "rank": 95,
+    "stars": 11
   },
   {
     "slug": "tailwind-design-system",
@@ -765,7 +860,8 @@
     "score": 1.102,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/tailwind-design-system",
-    "rank": 96
+    "rank": 96,
+    "stars": 8
   },
   {
     "slug": "agent-council",
@@ -773,7 +869,8 @@
     "score": 1.101,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-council",
-    "rank": 97
+    "rank": 97,
+    "stars": 10
   },
   {
     "slug": "infra-as-code",
@@ -781,7 +878,8 @@
     "score": 1.101,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/infra-as-code",
-    "rank": 98
+    "rank": 98,
+    "stars": 1
   },
   {
     "slug": "zoho-crm",
@@ -789,7 +887,8 @@
     "score": 1.098,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/zoho-crm",
-    "rank": 99
+    "rank": 99,
+    "stars": 6
   },
   {
     "slug": "agent-registry",
@@ -797,7 +896,8 @@
     "score": 1.096,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-registry",
-    "rank": 100
+    "rank": 100,
+    "stars": 0
   },
   {
     "slug": "ai-productivity-audit",
@@ -805,7 +905,8 @@
     "score": 1.096,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-productivity-audit",
-    "rank": 101
+    "rank": 101,
+    "stars": 0
   },
   {
     "slug": "tekin",
@@ -813,7 +914,8 @@
     "score": 1.095,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/tekin",
-    "rank": 102
+    "rank": 102,
+    "stars": 0
   },
   {
     "slug": "web-scraping",
@@ -821,7 +923,8 @@
     "score": 1.094,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/web-scraping",
-    "rank": 103
+    "rank": 103,
+    "stars": 2
   },
   {
     "slug": "agents-manager",
@@ -829,7 +932,8 @@
     "score": 1.093,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agents-manager",
-    "rank": 104
+    "rank": 104,
+    "stars": 5
   },
   {
     "slug": "vercel-deploy",
@@ -837,7 +941,8 @@
     "score": 1.092,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/vercel-deploy",
-    "rank": 105
+    "rank": 105,
+    "stars": 1
   },
   {
     "slug": "k8s-browser",
@@ -845,7 +950,8 @@
     "score": 1.091,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/k8s-browser",
-    "rank": 106
+    "rank": 106,
+    "stars": 0
   },
   {
     "slug": "agentgram",
@@ -853,7 +959,8 @@
     "score": 1.09,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentgram",
-    "rank": 107
+    "rank": 107,
+    "stars": 2
   },
   {
     "slug": "market-analysis-cn",
@@ -861,7 +968,8 @@
     "score": 1.089,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/market-analysis-cn",
-    "rank": 108
+    "rank": 108,
+    "stars": 18
   },
   {
     "slug": "web-design",
@@ -869,7 +977,8 @@
     "score": 1.088,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/web-design",
-    "rank": 109
+    "rank": 109,
+    "stars": 1
   },
   {
     "slug": "relay-to-agent",
@@ -877,7 +986,8 @@
     "score": 1.088,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/relay-to-agent",
-    "rank": 110
+    "rank": 110,
+    "stars": 6
   },
   {
     "slug": "web-deploy-github",
@@ -885,7 +995,8 @@
     "score": 1.088,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/web-deploy-github",
-    "rank": 111
+    "rank": 111,
+    "stars": 7
   },
   {
     "slug": "personal-productivity",
@@ -893,7 +1004,8 @@
     "score": 1.085,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/personal-productivity",
-    "rank": 112
+    "rank": 112,
+    "stars": 1
   },
   {
     "slug": "analyst",
@@ -901,7 +1013,8 @@
     "score": 1.085,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/analyst",
-    "rank": 113
+    "rank": 113,
+    "stars": 4
   },
   {
     "slug": "selenium-browser-skill",
@@ -909,7 +1022,8 @@
     "score": 1.082,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/selenium-browser-skill",
-    "rank": 114
+    "rank": 114,
+    "stars": 0
   },
   {
     "slug": "designer",
@@ -917,7 +1031,8 @@
     "score": 1.081,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/designer",
-    "rank": 115
+    "rank": 115,
+    "stars": 4
   },
   {
     "slug": "zoho-people",
@@ -925,7 +1040,8 @@
     "score": 1.079,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/zoho-people",
-    "rank": 116
+    "rank": 116,
+    "stars": 3
   },
   {
     "slug": "database-operations",
@@ -933,7 +1049,8 @@
     "score": 1.078,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-operations",
-    "rank": 117
+    "rank": 117,
+    "stars": 6
   },
   {
     "slug": "devops-automation-pack",
@@ -941,7 +1058,8 @@
     "score": 1.076,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/devops-automation-pack",
-    "rank": 118
+    "rank": 118,
+    "stars": 0
   },
   {
     "slug": "security-audit-toolkit",
@@ -949,7 +1067,8 @@
     "score": 1.076,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-audit-toolkit",
-    "rank": 119
+    "rank": 119,
+    "stars": 16
   },
   {
     "slug": "perplexity",
@@ -957,7 +1076,8 @@
     "score": 1.075,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/perplexity",
-    "rank": 120
+    "rank": 120,
+    "stars": 25
   },
   {
     "slug": "registry-broker-hashnet-openclaw",
@@ -965,7 +1085,8 @@
     "score": 1.072,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/registry-broker-hashnet-openclaw",
-    "rank": 121
+    "rank": 121,
+    "stars": 0
   },
   {
     "slug": "afrexai-productivity-system",
@@ -973,7 +1094,8 @@
     "score": 1.071,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/afrexai-productivity-system",
-    "rank": 122
+    "rank": 122,
+    "stars": 1
   },
   {
     "slug": "linkedin-api",
@@ -981,7 +1103,8 @@
     "score": 1.069,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/linkedin-api",
-    "rank": 123
+    "rank": 123,
+    "stars": 40
   },
   {
     "slug": "pr-commit-workflow",
@@ -989,7 +1112,8 @@
     "score": 1.068,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/pr-commit-workflow",
-    "rank": 124
+    "rank": 124,
+    "stars": 0
   },
   {
     "slug": "meow-finder",
@@ -997,7 +1121,8 @@
     "score": 1.068,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/meow-finder",
-    "rank": 125
+    "rank": 125,
+    "stars": 2
   },
   {
     "slug": "oh-my-opencode",
@@ -1005,7 +1130,8 @@
     "score": 1.067,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/oh-my-opencode",
-    "rank": 126
+    "rank": 126,
+    "stars": 2
   },
   {
     "slug": "botpress-adk",
@@ -1013,7 +1139,8 @@
     "score": 1.066,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/botpress-adk",
-    "rank": 127
+    "rank": 127,
+    "stars": 1
   },
   {
     "slug": "frontend-design-extractor",
@@ -1021,7 +1148,8 @@
     "score": 1.065,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-extractor",
-    "rank": 128
+    "rank": 128,
+    "stars": 2
   },
   {
     "slug": "agent-swarm-workflow",
@@ -1029,7 +1157,8 @@
     "score": 1.062,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-swarm-workflow",
-    "rank": 129
+    "rank": 129,
+    "stars": 0
   },
   {
     "slug": "senior-devops",
@@ -1037,7 +1166,8 @@
     "score": 1.062,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/senior-devops",
-    "rank": 130
+    "rank": 130,
+    "stars": 7
   },
   {
     "slug": "airtable",
@@ -1045,7 +1175,8 @@
     "score": 1.059,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/airtable",
-    "rank": 131
+    "rank": 131,
+    "stars": 14
   },
   {
     "slug": "agent-social",
@@ -1053,7 +1184,8 @@
     "score": 1.059,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-social",
-    "rank": 132
+    "rank": 132,
+    "stars": 5
   },
   {
     "slug": "ui",
@@ -1061,7 +1193,8 @@
     "score": 1.058,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui",
-    "rank": 133
+    "rank": 133,
+    "stars": 4
   },
   {
     "slug": "ant-design-skill",
@@ -1069,7 +1202,8 @@
     "score": 1.056,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ant-design-skill",
-    "rank": 134
+    "rank": 134,
+    "stars": 2
   },
   {
     "slug": "coolify",
@@ -1077,7 +1211,8 @@
     "score": 1.054,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/coolify",
-    "rank": 135
+    "rank": 135,
+    "stars": 0
   },
   {
     "slug": "hetzner-cloud",
@@ -1085,7 +1220,8 @@
     "score": 1.054,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/hetzner-cloud",
-    "rank": 136
+    "rank": 136,
+    "stars": 4
   },
   {
     "slug": "notion-api-skill",
@@ -1093,7 +1229,8 @@
     "score": 1.053,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-api-skill",
-    "rank": 137
+    "rank": 137,
+    "stars": 8
   },
   {
     "slug": "afrexai-automation-strategy",
@@ -1101,7 +1238,8 @@
     "score": 1.053,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/afrexai-automation-strategy",
-    "rank": 138
+    "rank": 138,
+    "stars": 0
   },
   {
     "slug": "browserless-agent",
@@ -1109,7 +1247,8 @@
     "score": 1.052,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browserless-agent",
-    "rank": 139
+    "rank": 139,
+    "stars": 0
   },
   {
     "slug": "api-dev",
@@ -1117,7 +1256,8 @@
     "score": 1.052,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-dev",
-    "rank": 140
+    "rank": 140,
+    "stars": 8
   },
   {
     "slug": "multi-agent-collaboration",
@@ -1125,7 +1265,8 @@
     "score": 1.052,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/multi-agent-collaboration",
-    "rank": 141
+    "rank": 141,
+    "stars": 1
   },
   {
     "slug": "gitflow",
@@ -1133,7 +1274,8 @@
     "score": 1.052,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/gitflow",
-    "rank": 142
+    "rank": 142,
+    "stars": 3
   },
   {
     "slug": "kubectl",
@@ -1141,7 +1283,8 @@
     "score": 1.052,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/kubectl",
-    "rank": 143
+    "rank": 143,
+    "stars": 5
   },
   {
     "slug": "auto-workflow-builder",
@@ -1149,7 +1292,8 @@
     "score": 1.051,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/auto-workflow-builder",
-    "rank": 144
+    "rank": 144,
+    "stars": 0
   },
   {
     "slug": "agent-evaluation",
@@ -1157,7 +1301,8 @@
     "score": 1.05,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-evaluation",
-    "rank": 145
+    "rank": 145,
+    "stars": 6
   },
   {
     "slug": "ui-ux",
@@ -1165,7 +1310,8 @@
     "score": 1.05,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux",
-    "rank": 146
+    "rank": 146,
+    "stars": 0
   },
   {
     "slug": "openclaw-agent-browser",
@@ -1173,7 +1319,8 @@
     "score": 1.049,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/openclaw-agent-browser",
-    "rank": 147
+    "rank": 147,
+    "stars": 2
   },
   {
     "slug": "activecampaign-automation",
@@ -1181,7 +1328,8 @@
     "score": 1.048,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/activecampaign-automation",
-    "rank": 148
+    "rank": 148,
+    "stars": 1
   },
   {
     "slug": "playwright-npx",
@@ -1189,7 +1337,8 @@
     "score": 1.048,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/playwright-npx",
-    "rank": 149
+    "rank": 149,
+    "stars": 0
   },
   {
     "slug": "gcp",
@@ -1197,7 +1346,8 @@
     "score": 1.048,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/gcp",
-    "rank": 150
+    "rank": 150,
+    "stars": 4
   },
   {
     "slug": "secure-code-guardian",
@@ -1205,7 +1355,8 @@
     "score": 1.047,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/secure-code-guardian",
-    "rank": 151
+    "rank": 151,
+    "stars": 1
   },
   {
     "slug": "ws-agent-browser",
@@ -1213,7 +1364,8 @@
     "score": 1.046,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ws-agent-browser",
-    "rank": 152
+    "rank": 152,
+    "stars": 8
   },
   {
     "slug": "azure-cli",
@@ -1221,7 +1373,8 @@
     "score": 1.046,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/azure-cli",
-    "rank": 153
+    "rank": 153,
+    "stars": 1
   },
   {
     "slug": "clawexchange",
@@ -1229,7 +1382,8 @@
     "score": 1.045,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/clawexchange",
-    "rank": 154
+    "rank": 154,
+    "stars": 2
   },
   {
     "slug": "ui-ux-pro-max-2",
@@ -1237,7 +1391,8 @@
     "score": 1.043,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-pro-max-2",
-    "rank": 155
+    "rank": 155,
+    "stars": 9
   },
   {
     "slug": "puppeteer",
@@ -1245,7 +1400,8 @@
     "score": 1.042,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/puppeteer",
-    "rank": 156
+    "rank": 156,
+    "stars": 1
   },
   {
     "slug": "loom-workflow",
@@ -1253,7 +1409,8 @@
     "score": 1.042,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/loom-workflow",
-    "rank": 157
+    "rank": 157,
+    "stars": 0
   },
   {
     "slug": "dokploy",
@@ -1261,7 +1418,8 @@
     "score": 1.042,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/dokploy",
-    "rank": 158
+    "rank": 158,
+    "stars": 4
   },
   {
     "slug": "time-management-2",
@@ -1269,7 +1427,8 @@
     "score": 1.042,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/time-management-2",
-    "rank": 159
+    "rank": 159,
+    "stars": 2
   },
   {
     "slug": "actual-budget",
@@ -1277,7 +1436,8 @@
     "score": 1.041,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/actual-budget",
-    "rank": 160
+    "rank": 160,
+    "stars": 2
   },
   {
     "slug": "xmtp-agent",
@@ -1285,7 +1445,8 @@
     "score": 1.041,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/xmtp-agent",
-    "rank": 161
+    "rank": 161,
+    "stars": 2
   },
   {
     "slug": "chat-ui",
@@ -1293,7 +1454,8 @@
     "score": 1.04,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/chat-ui",
-    "rank": 162
+    "rank": 162,
+    "stars": 0
   },
   {
     "slug": "tools",
@@ -1301,7 +1463,8 @@
     "score": 1.04,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/tools",
-    "rank": 163
+    "rank": 163,
+    "stars": 3
   },
   {
     "slug": "ai-data-analysis",
@@ -1309,7 +1472,8 @@
     "score": 1.04,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ai-data-analysis",
-    "rank": 164
+    "rank": 164,
+    "stars": 0
   },
   {
     "slug": "agent-earner",
@@ -1317,7 +1481,8 @@
     "score": 1.038,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-earner",
-    "rank": 165
+    "rank": 165,
+    "stars": 4
   },
   {
     "slug": "agent",
@@ -1325,7 +1490,8 @@
     "score": 1.037,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent",
-    "rank": 166
+    "rank": 166,
+    "stars": 7
   },
   {
     "slug": "notion-skill",
@@ -1333,7 +1499,8 @@
     "score": 1.037,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-skill",
-    "rank": 167
+    "rank": 167,
+    "stars": 14
   },
   {
     "slug": "agent-development",
@@ -1341,7 +1508,8 @@
     "score": 1.036,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-development",
-    "rank": 168
+    "rank": 168,
+    "stars": 8
   },
   {
     "slug": "agentns",
@@ -1349,7 +1517,8 @@
     "score": 1.036,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentns",
-    "rank": 169
+    "rank": 169,
+    "stars": 2
   },
   {
     "slug": "arc-workflow-orchestrator",
@@ -1357,7 +1526,8 @@
     "score": 1.035,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/arc-workflow-orchestrator",
-    "rank": 170
+    "rank": 170,
+    "stars": 0
   },
   {
     "slug": "a2a-hub",
@@ -1365,7 +1535,8 @@
     "score": 1.035,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/a2a-hub",
-    "rank": 171
+    "rank": 171,
+    "stars": 2
   },
   {
     "slug": "security-scanner",
@@ -1373,7 +1544,8 @@
     "score": 1.034,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-scanner",
-    "rank": 172
+    "rank": 172,
+    "stars": 1
   },
   {
     "slug": "data-anomaly-detector",
@@ -1381,7 +1553,8 @@
     "score": 1.034,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-anomaly-detector",
-    "rank": 173
+    "rank": 173,
+    "stars": 1
   },
   {
     "slug": "clawdnet",
@@ -1389,7 +1562,8 @@
     "score": 1.033,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/clawdnet",
-    "rank": 174
+    "rank": 174,
+    "stars": 1
   },
   {
     "slug": "n8n-workflow-templates",
@@ -1397,7 +1571,8 @@
     "score": 1.032,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-workflow-templates",
-    "rank": 175
+    "rank": 175,
+    "stars": 0
   },
   {
     "slug": "ai-automation-consulting",
@@ -1405,7 +1580,8 @@
     "score": 1.031,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-automation-consulting",
-    "rank": 176
+    "rank": 176,
+    "stars": 1
   },
   {
     "slug": "agency-agents",
@@ -1413,7 +1589,8 @@
     "score": 1.03,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agency-agents",
-    "rank": 177
+    "rank": 177,
+    "stars": 11
   },
   {
     "slug": "actionbook",
@@ -1421,7 +1598,8 @@
     "score": 1.03,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/actionbook",
-    "rank": 178
+    "rank": 178,
+    "stars": 0
   },
   {
     "slug": "eventbrite",
@@ -1429,7 +1607,8 @@
     "score": 1.03,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/eventbrite",
-    "rank": 179
+    "rank": 179,
+    "stars": 3
   },
   {
     "slug": "registry-broker",
@@ -1437,7 +1616,8 @@
     "score": 1.03,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/registry-broker",
-    "rank": 180
+    "rank": 180,
+    "stars": 3
   },
   {
     "slug": "x402hub",
@@ -1445,7 +1625,8 @@
     "score": 1.03,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/x402hub",
-    "rank": 181
+    "rank": 181,
+    "stars": 1
   },
   {
     "slug": "macbook-optimizer",
@@ -1453,7 +1634,8 @@
     "score": 1.03,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/macbook-optimizer",
-    "rank": 182
+    "rank": 182,
+    "stars": 4
   },
   {
     "slug": "chessmaster",
@@ -1461,7 +1643,8 @@
     "score": 1.029,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/chessmaster",
-    "rank": 183
+    "rank": 183,
+    "stars": 2
   },
   {
     "slug": "agentchan",
@@ -1469,7 +1652,8 @@
     "score": 1.029,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentchan",
-    "rank": 184
+    "rank": 184,
+    "stars": 0
   },
   {
     "slug": "ai-automation-workflow",
@@ -1477,7 +1661,8 @@
     "score": 1.028,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-automation-workflow",
-    "rank": 185
+    "rank": 185,
+    "stars": 0
   },
   {
     "slug": "lobster-jobs",
@@ -1485,7 +1670,8 @@
     "score": 1.028,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/lobster-jobs",
-    "rank": 186
+    "rank": 186,
+    "stars": 1
   },
   {
     "slug": "afrexai-business-automation",
@@ -1493,7 +1679,8 @@
     "score": 1.027,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-business-automation",
-    "rank": 187
+    "rank": 187,
+    "stars": 0
   },
   {
     "slug": "agent-constitution",
@@ -1501,7 +1688,8 @@
     "score": 1.026,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-constitution",
-    "rank": 188
+    "rank": 188,
+    "stars": 1
   },
   {
     "slug": "pentest",
@@ -1509,7 +1697,8 @@
     "score": 1.026,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/pentest",
-    "rank": 189
+    "rank": 189,
+    "stars": 5
   },
   {
     "slug": "atl-mobile",
@@ -1517,7 +1706,8 @@
     "score": 1.025,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/atl-mobile",
-    "rank": 190
+    "rank": 190,
+    "stars": 0
   },
   {
     "slug": "cicd-pipeline-generator",
@@ -1525,7 +1715,8 @@
     "score": 1.024,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cicd-pipeline-generator",
-    "rank": 191
+    "rank": 191,
+    "stars": 1
   },
   {
     "slug": "cloud-architect",
@@ -1533,7 +1724,8 @@
     "score": 1.024,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-architect",
-    "rank": 192
+    "rank": 192,
+    "stars": 1
   },
   {
     "slug": "tool",
@@ -1541,7 +1733,8 @@
     "score": 1.024,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/tool",
-    "rank": 193
+    "rank": 193,
+    "stars": 0
   },
   {
     "slug": "alicloud-compute-fc-serverless-devs",
@@ -1549,7 +1742,8 @@
     "score": 1.023,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/alicloud-compute-fc-serverless-devs",
-    "rank": 194
+    "rank": 194,
+    "stars": 0
   },
   {
     "slug": "productivity-automation-kit",
@@ -1557,7 +1751,8 @@
     "score": 1.02,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/productivity-automation-kit",
-    "rank": 195
+    "rank": 195,
+    "stars": 0
   },
   {
     "slug": "opentask",
@@ -1565,7 +1760,8 @@
     "score": 1.019,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/opentask",
-    "rank": 196
+    "rank": 196,
+    "stars": 3
   },
   {
     "slug": "ui-ux-dev",
@@ -1573,7 +1769,8 @@
     "score": 1.018,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-dev",
-    "rank": 197
+    "rank": 197,
+    "stars": 1
   },
   {
     "slug": "azd-deployment",
@@ -1581,7 +1778,8 @@
     "score": 1.018,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/azd-deployment",
-    "rank": 198
+    "rank": 198,
+    "stars": 0
   },
   {
     "slug": "railway-skill",
@@ -1589,7 +1787,8 @@
     "score": 1.017,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/railway-skill",
-    "rank": 199
+    "rank": 199,
+    "stars": 1
   },
   {
     "slug": "human-browser",
@@ -1597,7 +1796,8 @@
     "score": 1.016,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/human-browser",
-    "rank": 200
+    "rank": 200,
+    "stars": 5
   },
   {
     "slug": "ui-component",
@@ -1605,7 +1805,8 @@
     "score": 1.016,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-component",
-    "rank": 201
+    "rank": 201,
+    "stars": 2
   },
   {
     "slug": "auto-workflow",
@@ -1613,7 +1814,8 @@
     "score": 1.015,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/auto-workflow",
-    "rank": 202
+    "rank": 202,
+    "stars": null
   },
   {
     "slug": "agent-browser-0-2-0",
@@ -1621,7 +1823,8 @@
     "score": 1.015,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-0-2-0",
-    "rank": 203
+    "rank": 203,
+    "stars": null
   },
   {
     "slug": "agent-team",
@@ -1629,7 +1832,8 @@
     "score": 1.015,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-team",
-    "rank": 204
+    "rank": 204,
+    "stars": null
   },
   {
     "slug": "zeruai",
@@ -1637,7 +1841,8 @@
     "score": 1.015,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/zeruai",
-    "rank": 205
+    "rank": 205,
+    "stars": null
   },
   {
     "slug": "terminal-ui-website-design",
@@ -1645,7 +1850,8 @@
     "score": 1.014,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/terminal-ui-website-design",
-    "rank": 206
+    "rank": 206,
+    "stars": 1
   },
   {
     "slug": "agenthc-market-intelligence",
@@ -1653,7 +1859,8 @@
     "score": 1.014,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agenthc-market-intelligence",
-    "rank": 207
+    "rank": 207,
+    "stars": 6
   },
   {
     "slug": "otp-challenger",
@@ -1661,7 +1868,8 @@
     "score": 1.014,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/otp-challenger",
-    "rank": 208
+    "rank": 208,
+    "stars": null
   },
   {
     "slug": "ux",
@@ -1669,7 +1877,8 @@
     "score": 1.013,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ux",
-    "rank": 209
+    "rank": 209,
+    "stars": null
   },
   {
     "slug": "ui-designer",
@@ -1677,7 +1886,8 @@
     "score": 1.013,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-designer",
-    "rank": 210
+    "rank": 210,
+    "stars": null
   },
   {
     "slug": "domaindetails",
@@ -1685,7 +1895,8 @@
     "score": 1.012,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/domaindetails",
-    "rank": 211
+    "rank": 211,
+    "stars": 4
   },
   {
     "slug": "anthropics-frontend-design",
@@ -1693,7 +1904,8 @@
     "score": 1.012,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/anthropics-frontend-design",
-    "rank": 212
+    "rank": 212,
+    "stars": null
   },
   {
     "slug": "antfarm-workflows",
@@ -1701,7 +1913,8 @@
     "score": 1.012,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/antfarm-workflows",
-    "rank": 213
+    "rank": 213,
+    "stars": 0
   },
   {
     "slug": "naruto-multi-agent-cn",
@@ -1709,7 +1922,8 @@
     "score": 1.012,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/naruto-multi-agent-cn",
-    "rank": 214
+    "rank": 214,
+    "stars": null
   },
   {
     "slug": "elizacloud",
@@ -1717,7 +1931,8 @@
     "score": 1.012,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/elizacloud",
-    "rank": 215
+    "rank": 215,
+    "stars": null
   },
   {
     "slug": "volcengine-compute-function",
@@ -1725,7 +1940,8 @@
     "score": 1.012,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/volcengine-compute-function",
-    "rank": 216
+    "rank": 216,
+    "stars": null
   },
   {
     "slug": "data-analysis-litiao",
@@ -1733,7 +1949,8 @@
     "score": 1.012,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analysis-litiao",
-    "rank": 217
+    "rank": 217,
+    "stars": 0
   },
   {
     "slug": "shadcn",
@@ -1741,7 +1958,8 @@
     "score": 1.011,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/shadcn",
-    "rank": 218
+    "rank": 218,
+    "stars": null
   },
   {
     "slug": "agentpayy",
@@ -1749,7 +1967,8 @@
     "score": 1.009,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agentpayy",
-    "rank": 219
+    "rank": 219,
+    "stars": null
   },
   {
     "slug": "playwright-cli-openclaw",
@@ -1757,7 +1976,8 @@
     "score": 1.009,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/playwright-cli-openclaw",
-    "rank": 220
+    "rank": 220,
+    "stars": 2
   },
   {
     "slug": "zscore",
@@ -1765,7 +1985,8 @@
     "score": 1.009,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/zscore",
-    "rank": 221
+    "rank": 221,
+    "stars": null
   },
   {
     "slug": "erc8004-identity",
@@ -1773,7 +1994,8 @@
     "score": 1.009,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/erc8004-identity",
-    "rank": 222
+    "rank": 222,
+    "stars": 0
   },
   {
     "slug": "data-cog",
@@ -1781,7 +2003,8 @@
     "score": 1.009,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-cog",
-    "rank": 223
+    "rank": 223,
+    "stars": null
   },
   {
     "slug": "ai-ceo-automation",
@@ -1789,7 +2012,8 @@
     "score": 1.008,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-ceo-automation",
-    "rank": 224
+    "rank": 224,
+    "stars": null
   },
   {
     "slug": "windmill",
@@ -1797,7 +2021,8 @@
     "score": 1.008,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/windmill",
-    "rank": 225
+    "rank": 225,
+    "stars": null
   },
   {
     "slug": "nudge-marketplace",
@@ -1805,7 +2030,8 @@
     "score": 1.008,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/nudge-marketplace",
-    "rank": 226
+    "rank": 226,
+    "stars": null
   },
   {
     "slug": "cloud-infra-automation",
@@ -1813,7 +2039,8 @@
     "score": 1.008,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-infra-automation",
-    "rank": 227
+    "rank": 227,
+    "stars": null
   },
   {
     "slug": "notion-cli",
@@ -1821,7 +2048,8 @@
     "score": 1.007,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-cli",
-    "rank": 228
+    "rank": 228,
+    "stars": null
   },
   {
     "slug": "tools-ui",
@@ -1829,7 +2057,8 @@
     "score": 1.007,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/tools-ui",
-    "rank": 229
+    "rank": 229,
+    "stars": 0
   },
   {
     "slug": "data-automation-service",
@@ -1837,7 +2066,8 @@
     "score": 1.004,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/data-automation-service",
-    "rank": 230
+    "rank": 230,
+    "stars": 0
   },
   {
     "slug": "agentx-marketplace",
@@ -1845,7 +2075,8 @@
     "score": 1.004,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentx-marketplace",
-    "rank": 231
+    "rank": 231,
+    "stars": 1
   },
   {
     "slug": "deploy-pilot",
@@ -1853,7 +2084,8 @@
     "score": 1.004,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploy-pilot",
-    "rank": 232
+    "rank": 232,
+    "stars": 0
   },
   {
     "slug": "freelance-automation-gig",
@@ -1861,7 +2093,8 @@
     "score": 1.003,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/freelance-automation-gig",
-    "rank": 233
+    "rank": 233,
+    "stars": 0
   },
   {
     "slug": "ui-designer-skill",
@@ -1869,7 +2102,8 @@
     "score": 1.003,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-designer-skill",
-    "rank": 234
+    "rank": 234,
+    "stars": 4
   },
   {
     "slug": "ui-design",
@@ -1877,7 +2111,8 @@
     "score": 1.003,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-design",
-    "rank": 235
+    "rank": 235,
+    "stars": 0
   },
   {
     "slug": "javascript-sdk",
@@ -1885,7 +2120,8 @@
     "score": 1.003,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/javascript-sdk",
-    "rank": 236
+    "rank": 236,
+    "stars": 0
   },
   {
     "slug": "jobber",
@@ -1893,7 +2129,8 @@
     "score": 1.002,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/jobber",
-    "rank": 237
+    "rank": 237,
+    "stars": 3
   },
   {
     "slug": "base-8004",
@@ -1901,7 +2138,8 @@
     "score": 1.002,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/base-8004",
-    "rank": 238
+    "rank": 238,
+    "stars": 0
   },
   {
     "slug": "coding-lead",
@@ -1909,7 +2147,8 @@
     "score": 1.002,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/coding-lead",
-    "rank": 239
+    "rank": 239,
+    "stars": 0
   },
   {
     "slug": "agent-browser-clawdbot-bak-2026-01-28t18-01-09-10-30",
@@ -1917,7 +2156,8 @@
     "score": 1.001,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-browser-clawdbot-bak-2026-01-28t18-01-09-10-30",
-    "rank": 240
+    "rank": 240,
+    "stars": 1
   },
   {
     "slug": "n8n-builder",
@@ -1925,7 +2165,8 @@
     "score": 1.001,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/n8n-builder",
-    "rank": 241
+    "rank": 241,
+    "stars": 0
   },
   {
     "slug": "agent-ui",
@@ -1933,7 +2174,8 @@
     "score": 1,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-ui",
-    "rank": 242
+    "rank": 242,
+    "stars": 2
   },
   {
     "slug": "agentic-browser",
@@ -1941,7 +2183,8 @@
     "score": 0.999,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agentic-browser",
-    "rank": 243
+    "rank": 243,
+    "stars": 2
   },
   {
     "slug": "rupert-data-analysis",
@@ -1949,7 +2192,8 @@
     "score": 0.999,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/rupert-data-analysis",
-    "rank": 244
+    "rank": 244,
+    "stars": 0
   },
   {
     "slug": "data-model-designer",
@@ -1957,7 +2201,8 @@
     "score": 0.998,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/data-model-designer",
-    "rank": 245
+    "rank": 245,
+    "stars": 0
   },
   {
     "slug": "comanda",
@@ -1965,7 +2210,8 @@
     "score": 0.998,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/comanda",
-    "rank": 246
+    "rank": 246,
+    "stars": 1
   },
   {
     "slug": "analyze",
@@ -1973,7 +2219,8 @@
     "score": 0.997,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/analyze",
-    "rank": 247
+    "rank": 247,
+    "stars": 3
   },
   {
     "slug": "user-authentication-system",
@@ -1981,7 +2228,8 @@
     "score": 0.995,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/user-authentication-system",
-    "rank": 248
+    "rank": 248,
+    "stars": 0
   },
   {
     "slug": "code-planning-agent",
@@ -1989,7 +2237,8 @@
     "score": 0.994,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/code-planning-agent",
-    "rank": 249
+    "rank": 249,
+    "stars": 1
   },
   {
     "slug": "upwork-automation-gig",
@@ -1997,7 +2246,8 @@
     "score": 0.993,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/upwork-automation-gig",
-    "rank": 250
+    "rank": 250,
+    "stars": 0
   },
   {
     "slug": "database-designer",
@@ -2005,7 +2255,8 @@
     "score": 0.992,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-designer",
-    "rank": 251
+    "rank": 251,
+    "stars": 0
   },
   {
     "slug": "golemedin-mcp",
@@ -2013,7 +2264,8 @@
     "score": 0.992,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/golemedin-mcp",
-    "rank": 252
+    "rank": 252,
+    "stars": 0
   },
   {
     "slug": "kubernetes-devops",
@@ -2021,7 +2273,8 @@
     "score": 0.992,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/kubernetes-devops",
-    "rank": 253
+    "rank": 253,
+    "stars": 1
   },
   {
     "slug": "b2a",
@@ -2029,7 +2282,8 @@
     "score": 0.99,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/b2a",
-    "rank": 254
+    "rank": 254,
+    "stars": 2
   },
   {
     "slug": "elite-frontend-design",
@@ -2037,7 +2291,8 @@
     "score": 0.99,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/elite-frontend-design",
-    "rank": 255
+    "rank": 255,
+    "stars": 0
   },
   {
     "slug": "agent-security",
@@ -2045,7 +2300,8 @@
     "score": 0.989,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-security",
-    "rank": 256
+    "rank": 256,
+    "stars": 0
   },
   {
     "slug": "clawdbot-security-suite",
@@ -2053,7 +2309,8 @@
     "score": 0.989,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/clawdbot-security-suite",
-    "rank": 257
+    "rank": 257,
+    "stars": 11
   },
   {
     "slug": "agent-browser-4",
@@ -2061,7 +2318,8 @@
     "score": 0.988,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-4",
-    "rank": 258
+    "rank": 258,
+    "stars": 0
   },
   {
     "slug": "frontend-agent",
@@ -2069,7 +2327,8 @@
     "score": 0.988,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-agent",
-    "rank": 259
+    "rank": 259,
+    "stars": 4
   },
   {
     "slug": "data-analyst-cn",
@@ -2077,7 +2336,8 @@
     "score": 0.988,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analyst-cn",
-    "rank": 260
+    "rank": 260,
+    "stars": 1
   },
   {
     "slug": "soulflow",
@@ -2085,7 +2345,8 @@
     "score": 0.987,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/soulflow",
-    "rank": 261
+    "rank": 261,
+    "stars": 0
   },
   {
     "slug": "afrexai-agent-manager",
@@ -2093,7 +2354,8 @@
     "score": 0.986,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-agent-manager",
-    "rank": 262
+    "rank": 262,
+    "stars": 0
   },
   {
     "slug": "agentapi",
@@ -2101,7 +2363,8 @@
     "score": 0.986,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentapi",
-    "rank": 263
+    "rank": 263,
+    "stars": 2
   },
   {
     "slug": "xmtp-agent-swarm",
@@ -2109,7 +2372,8 @@
     "score": 0.986,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/xmtp-agent-swarm",
-    "rank": 264
+    "rank": 264,
+    "stars": 0
   },
   {
     "slug": "auth",
@@ -2117,7 +2381,8 @@
     "score": 0.986,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/auth",
-    "rank": 265
+    "rank": 265,
+    "stars": 3
   },
   {
     "slug": "sql",
@@ -2125,7 +2390,8 @@
     "score": 0.985,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sql",
-    "rank": 266
+    "rank": 266,
+    "stars": 4
   },
   {
     "slug": "basecred-8004-registration",
@@ -2133,7 +2399,8 @@
     "score": 0.985,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/basecred-8004-registration",
-    "rank": 267
+    "rank": 267,
+    "stars": 0
   },
   {
     "slug": "aws-solution-architect",
@@ -2141,7 +2408,8 @@
     "score": 0.985,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/aws-solution-architect",
-    "rank": 268
+    "rank": 268,
+    "stars": 1
   },
   {
     "slug": "notion-cli-agent",
@@ -2149,7 +2417,8 @@
     "score": 0.984,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-cli-agent",
-    "rank": 269
+    "rank": 269,
+    "stars": 2
   },
   {
     "slug": "spring-boot-engineer",
@@ -2157,7 +2426,8 @@
     "score": 0.984,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/spring-boot-engineer",
-    "rank": 270
+    "rank": 270,
+    "stars": 4
   },
   {
     "slug": "passkey",
@@ -2165,7 +2435,8 @@
     "score": 0.984,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/passkey",
-    "rank": 271
+    "rank": 271,
+    "stars": null
   },
   {
     "slug": "amazon-shopper",
@@ -2173,7 +2444,8 @@
     "score": 0.983,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/amazon-shopper",
-    "rank": 272
+    "rank": 272,
+    "stars": 0
   },
   {
     "slug": "agentic-browser-0-1-2",
@@ -2181,7 +2453,8 @@
     "score": 0.983,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agentic-browser-0-1-2",
-    "rank": 273
+    "rank": 273,
+    "stars": 0
   },
   {
     "slug": "lb-tailwindcss-skill",
@@ -2189,7 +2462,8 @@
     "score": 0.983,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/lb-tailwindcss-skill",
-    "rank": 274
+    "rank": 274,
+    "stars": 0
   },
   {
     "slug": "agent-arena-skill",
@@ -2197,7 +2471,8 @@
     "score": 0.983,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-arena-skill",
-    "rank": 275
+    "rank": 275,
+    "stars": 1
   },
   {
     "slug": "db",
@@ -2205,7 +2480,8 @@
     "score": 0.982,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/db",
-    "rank": 276
+    "rank": 276,
+    "stars": 3
   },
   {
     "slug": "codehooks-backend",
@@ -2213,7 +2489,8 @@
     "score": 0.982,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/codehooks-backend",
-    "rank": 277
+    "rank": 277,
+    "stars": 0
   },
   {
     "slug": "agent-context-system",
@@ -2221,7 +2498,8 @@
     "score": 0.982,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-context-system",
-    "rank": 278
+    "rank": 278,
+    "stars": null
   },
   {
     "slug": "productivity-design",
@@ -2229,7 +2507,8 @@
     "score": 0.981,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/productivity-design",
-    "rank": 279
+    "rank": 279,
+    "stars": 0
   },
   {
     "slug": "senior-ml-engineer",
@@ -2237,7 +2516,8 @@
     "score": 0.981,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/senior-ml-engineer",
-    "rank": 280
+    "rank": 280,
+    "stars": 2
   },
   {
     "slug": "agents",
@@ -2245,7 +2525,8 @@
     "score": 0.98,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agents",
-    "rank": 281
+    "rank": 281,
+    "stars": 2
   },
   {
     "slug": "feishu-api-bitable",
@@ -2253,7 +2534,8 @@
     "score": 0.98,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/feishu-api-bitable",
-    "rank": 282
+    "rank": 282,
+    "stars": 3
   },
   {
     "slug": "native-ui",
@@ -2261,7 +2543,8 @@
     "score": 0.98,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/native-ui",
-    "rank": 283
+    "rank": 283,
+    "stars": null
   },
   {
     "slug": "mckinsey-research",
@@ -2269,7 +2552,8 @@
     "score": 0.98,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/mckinsey-research",
-    "rank": 284
+    "rank": 284,
+    "stars": null
   },
   {
     "slug": "automate",
@@ -2277,7 +2561,8 @@
     "score": 0.979,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/automate",
-    "rank": 285
+    "rank": 285,
+    "stars": 2
   },
   {
     "slug": "browser-secure",
@@ -2285,7 +2570,8 @@
     "score": 0.979,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-secure",
-    "rank": 286
+    "rank": 286,
+    "stars": 0
   },
   {
     "slug": "design",
@@ -2293,7 +2579,8 @@
     "score": 0.979,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/design",
-    "rank": 287
+    "rank": 287,
+    "stars": null
   },
   {
     "slug": "design-to-code",
@@ -2301,7 +2588,8 @@
     "score": 0.978,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/design-to-code",
-    "rank": 288
+    "rank": 288,
+    "stars": 0
   },
   {
     "slug": "agentapi-hub",
@@ -2309,7 +2597,8 @@
     "score": 0.978,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentapi-hub",
-    "rank": 289
+    "rank": 289,
+    "stars": null
   },
   {
     "slug": "deploydevnlu",
@@ -2317,7 +2606,8 @@
     "score": 0.978,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploydevnlu",
-    "rank": 290
+    "rank": 290,
+    "stars": 0
   },
   {
     "slug": "lb-drizzle-skill",
@@ -2325,7 +2615,8 @@
     "score": 0.977,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/lb-drizzle-skill",
-    "rank": 291
+    "rank": 291,
+    "stars": 5
   },
   {
     "slug": "dev-coding-agent",
@@ -2333,7 +2624,8 @@
     "score": 0.977,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/dev-coding-agent",
-    "rank": 292
+    "rank": 292,
+    "stars": 0
   },
   {
     "slug": "agent-swarm-ex",
@@ -2341,7 +2633,8 @@
     "score": 0.977,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-swarm-ex",
-    "rank": 293
+    "rank": 293,
+    "stars": 0
   },
   {
     "slug": "use-browser",
@@ -2349,7 +2642,8 @@
     "score": 0.976,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/use-browser",
-    "rank": 294
+    "rank": 294,
+    "stars": 1
   },
   {
     "slug": "workflow-migrate",
@@ -2357,7 +2651,8 @@
     "score": 0.976,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow-migrate",
-    "rank": 295
+    "rank": 295,
+    "stars": 0
   },
   {
     "slug": "strike163163-my-browser-control",
@@ -2365,7 +2660,8 @@
     "score": 0.975,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/strike163163-my-browser-control",
-    "rank": 296
+    "rank": 296,
+    "stars": 0
   },
   {
     "slug": "automator",
@@ -2373,7 +2669,8 @@
     "score": 0.975,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/automator",
-    "rank": 297
+    "rank": 297,
+    "stars": 0
   },
   {
     "slug": "design-system-creation",
@@ -2381,7 +2678,8 @@
     "score": 0.974,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/design-system-creation",
-    "rank": 298
+    "rank": 298,
+    "stars": 6
   },
   {
     "slug": "crewai-workflows",
@@ -2389,7 +2687,8 @@
     "score": 0.974,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/crewai-workflows",
-    "rank": 299
+    "rank": 299,
+    "stars": 3
   },
   {
     "slug": "jack-cloud",
@@ -2397,7 +2696,8 @@
     "score": 0.974,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/jack-cloud",
-    "rank": 300
+    "rank": 300,
+    "stars": 0
   },
   {
     "slug": "sub-agent-factory",
@@ -2405,7 +2705,8 @@
     "score": 0.973,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/sub-agent-factory",
-    "rank": 301
+    "rank": 301,
+    "stars": 0
   },
   {
     "slug": "api-designer",
@@ -2413,7 +2714,8 @@
     "score": 0.972,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-designer",
-    "rank": 302
+    "rank": 302,
+    "stars": 1
   },
   {
     "slug": "infrastructure",
@@ -2421,7 +2723,8 @@
     "score": 0.972,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/infrastructure",
-    "rank": 303
+    "rank": 303,
+    "stars": 2
   },
   {
     "slug": "interview-analysis",
@@ -2429,7 +2732,8 @@
     "score": 0.972,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/interview-analysis",
-    "rank": 304
+    "rank": 304,
+    "stars": 1
   },
   {
     "slug": "fastplaywright",
@@ -2437,7 +2741,8 @@
     "score": 0.971,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/fastplaywright",
-    "rank": 305
+    "rank": 305,
+    "stars": 0
   },
   {
     "slug": "acp",
@@ -2445,7 +2750,8 @@
     "score": 0.97,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/acp",
-    "rank": 306
+    "rank": 306,
+    "stars": 0
   },
   {
     "slug": "openserv-multi-agent-workflows",
@@ -2453,7 +2759,8 @@
     "score": 0.97,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/openserv-multi-agent-workflows",
-    "rank": 307
+    "rank": 307,
+    "stars": 0
   },
   {
     "slug": "reef-n8n-automation",
@@ -2461,7 +2768,8 @@
     "score": 0.969,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/reef-n8n-automation",
-    "rank": 308
+    "rank": 308,
+    "stars": 0
   },
   {
     "slug": "cloud-storage",
@@ -2469,7 +2777,8 @@
     "score": 0.969,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-storage",
-    "rank": 309
+    "rank": 309,
+    "stars": 2
   },
   {
     "slug": "spreadsheet-automation",
@@ -2477,7 +2786,8 @@
     "score": 0.968,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/spreadsheet-automation",
-    "rank": 310
+    "rank": 310,
+    "stars": 0
   },
   {
     "slug": "agent-designer",
@@ -2485,7 +2795,8 @@
     "score": 0.967,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-designer",
-    "rank": 311
+    "rank": 311,
+    "stars": 0
   },
   {
     "slug": "quack-workflow",
@@ -2493,7 +2804,8 @@
     "score": 0.967,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/quack-workflow",
-    "rank": 312
+    "rank": 312,
+    "stars": 0
   },
   {
     "slug": "productivity-bot",
@@ -2501,7 +2813,8 @@
     "score": 0.967,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/productivity-bot",
-    "rank": 313
+    "rank": 313,
+    "stars": 0
   },
   {
     "slug": "agent-group",
@@ -2509,7 +2822,8 @@
     "score": 0.967,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-group",
-    "rank": 314
+    "rank": 314,
+    "stars": 1
   },
   {
     "slug": "agent-browser-0",
@@ -2517,7 +2831,8 @@
     "score": 0.966,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-0",
-    "rank": 315
+    "rank": 315,
+    "stars": 0
   },
   {
     "slug": "agent-browser-tool",
@@ -2525,7 +2840,8 @@
     "score": 0.964,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-tool",
-    "rank": 316
+    "rank": 316,
+    "stars": 0
   },
   {
     "slug": "openclaw-automation-architecture",
@@ -2533,7 +2849,8 @@
     "score": 0.963,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/openclaw-automation-architecture",
-    "rank": 317
+    "rank": 317,
+    "stars": 0
   },
   {
     "slug": "ai-writing-agent",
@@ -2541,7 +2858,8 @@
     "score": 0.963,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/ai-writing-agent",
-    "rank": 318
+    "rank": 318,
+    "stars": 0
   },
   {
     "slug": "minimalist-ui",
@@ -2549,7 +2867,8 @@
     "score": 0.962,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/minimalist-ui",
-    "rank": 319
+    "rank": 319,
+    "stars": 0
   },
   {
     "slug": "multi-agent-roles",
@@ -2557,7 +2876,8 @@
     "score": 0.961,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/multi-agent-roles",
-    "rank": 320
+    "rank": 320,
+    "stars": 0
   },
   {
     "slug": "harpa-ai",
@@ -2565,7 +2885,8 @@
     "score": 0.961,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/harpa-ai",
-    "rank": 321
+    "rank": 321,
+    "stars": 2
   },
   {
     "slug": "expo-native-ui",
@@ -2573,7 +2894,8 @@
     "score": 0.961,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/expo-native-ui",
-    "rank": 322
+    "rank": 322,
+    "stars": 0
   },
   {
     "slug": "popeye-productivity",
@@ -2581,7 +2903,8 @@
     "score": 0.961,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/popeye-productivity",
-    "rank": 323
+    "rank": 323,
+    "stars": 0
   },
   {
     "slug": "laravel-cloud",
@@ -2589,7 +2912,8 @@
     "score": 0.96,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/laravel-cloud",
-    "rank": 324
+    "rank": 324,
+    "stars": 4
   },
   {
     "slug": "browser-js",
@@ -2597,7 +2921,8 @@
     "score": 0.959,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-js",
-    "rank": 325
+    "rank": 325,
+    "stars": 0
   },
   {
     "slug": "workflow-engine",
@@ -2605,7 +2930,8 @@
     "score": 0.959,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow-engine",
-    "rank": 326
+    "rank": 326,
+    "stars": 0
   },
   {
     "slug": "automation-tool",
@@ -2613,7 +2939,8 @@
     "score": 0.957,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/automation-tool",
-    "rank": 327
+    "rank": 327,
+    "stars": 0
   },
   {
     "slug": "browser-auth",
@@ -2621,7 +2948,8 @@
     "score": 0.957,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-auth",
-    "rank": 328
+    "rank": 328,
+    "stars": 0
   },
   {
     "slug": "page-agent",
@@ -2629,7 +2957,8 @@
     "score": 0.957,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/page-agent",
-    "rank": 329
+    "rank": 329,
+    "stars": 0
   },
   {
     "slug": "proto-cog",
@@ -2637,7 +2966,8 @@
     "score": 0.957,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/proto-cog",
-    "rank": 330
+    "rank": 330,
+    "stars": 5
   },
   {
     "slug": "jira-cloud-admin",
@@ -2645,7 +2975,8 @@
     "score": 0.957,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/jira-cloud-admin",
-    "rank": 331
+    "rank": 331,
+    "stars": 1
   },
   {
     "slug": "kradleverse",
@@ -2653,7 +2984,8 @@
     "score": 0.956,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/kradleverse",
-    "rank": 332
+    "rank": 332,
+    "stars": 0
   },
   {
     "slug": "responsive-design",
@@ -2661,7 +2993,8 @@
     "score": 0.955,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/responsive-design",
-    "rank": 333
+    "rank": 333,
+    "stars": 0
   },
   {
     "slug": "neckr0ik-automation-templates",
@@ -2669,7 +3002,8 @@
     "score": 0.954,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/neckr0ik-automation-templates",
-    "rank": 334
+    "rank": 334,
+    "stars": 0
   },
   {
     "slug": "ai-tech-lead",
@@ -2677,7 +3011,8 @@
     "score": 0.954,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/ai-tech-lead",
-    "rank": 335
+    "rank": 335,
+    "stars": 0
   },
   {
     "slug": "system-data-intelligence-skill",
@@ -2685,7 +3020,8 @@
     "score": 0.954,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/system-data-intelligence-skill",
-    "rank": 336
+    "rank": 336,
+    "stars": 0
   },
   {
     "slug": "dataset-finder",
@@ -2693,7 +3029,8 @@
     "score": 0.954,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/dataset-finder",
-    "rank": 337
+    "rank": 337,
+    "stars": 1
   },
   {
     "slug": "clawhub-publish-146156",
@@ -2701,7 +3038,8 @@
     "score": 0.953,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/clawhub-publish-146156",
-    "rank": 338
+    "rank": 338,
+    "stars": 0
   },
   {
     "slug": "clawhub-publish-146198",
@@ -2709,7 +3047,8 @@
     "score": 0.953,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/clawhub-publish-146198",
-    "rank": 339
+    "rank": 339,
+    "stars": 0
   },
   {
     "slug": "tailwind-v4-shadcn",
@@ -2717,7 +3056,8 @@
     "score": 0.953,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/tailwind-v4-shadcn",
-    "rank": 340
+    "rank": 340,
+    "stars": 1
   },
   {
     "slug": "ecomm-ai-voice-agent",
@@ -2725,7 +3065,8 @@
     "score": 0.953,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/ecomm-ai-voice-agent",
-    "rank": 341
+    "rank": 341,
+    "stars": 0
   },
   {
     "slug": "systems-architect",
@@ -2733,7 +3074,8 @@
     "score": 0.953,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/systems-architect",
-    "rank": 342
+    "rank": 342,
+    "stars": 2
   },
   {
     "slug": "ai-data-analyst-cn",
@@ -2741,7 +3083,8 @@
     "score": 0.953,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ai-data-analyst-cn",
-    "rank": 343
+    "rank": 343,
+    "stars": 0
   },
   {
     "slug": "browser-use-pro",
@@ -2749,7 +3092,8 @@
     "score": 0.952,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-use-pro",
-    "rank": 344
+    "rank": 344,
+    "stars": 0
   },
   {
     "slug": "mcp-chrome",
@@ -2757,7 +3101,8 @@
     "score": 0.952,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/mcp-chrome",
-    "rank": 345
+    "rank": 345,
+    "stars": 2
   },
   {
     "slug": "auth-patterns",
@@ -2765,7 +3110,8 @@
     "score": 0.952,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/auth-patterns",
-    "rank": 346
+    "rank": 346,
+    "stars": 0
   },
   {
     "slug": "drizzle",
@@ -2773,7 +3119,8 @@
     "score": 0.951,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/drizzle",
-    "rank": 347
+    "rank": 347,
+    "stars": 2
   },
   {
     "slug": "clawhub-skill-deploy-pilot",
@@ -2781,7 +3128,8 @@
     "score": 0.951,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/clawhub-skill-deploy-pilot",
-    "rank": 348
+    "rank": 348,
+    "stars": 0
   },
   {
     "slug": "afrexai-insurance-automation",
@@ -2789,7 +3137,8 @@
     "score": 0.95,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-insurance-automation",
-    "rank": 349
+    "rank": 349,
+    "stars": 0
   },
   {
     "slug": "ai-web-automation-1-0-0",
@@ -2797,7 +3146,8 @@
     "score": 0.95,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-web-automation-1-0-0",
-    "rank": 350
+    "rank": 350,
+    "stars": 0
   },
   {
     "slug": "brand-identity-analyzer",
@@ -2805,7 +3155,8 @@
     "score": 0.95,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/brand-identity-analyzer",
-    "rank": 351
+    "rank": 351,
+    "stars": 2
   },
   {
     "slug": "sql-pro",
@@ -2813,7 +3164,8 @@
     "score": 0.949,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sql-pro",
-    "rank": 352
+    "rank": 352,
+    "stars": 4
   },
   {
     "slug": "authenticate-wallet",
@@ -2821,7 +3173,8 @@
     "score": 0.949,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/authenticate-wallet",
-    "rank": 353
+    "rank": 353,
+    "stars": 0
   },
   {
     "slug": "pandas-construction-analysis",
@@ -2829,7 +3182,8 @@
     "score": 0.949,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/pandas-construction-analysis",
-    "rank": 354
+    "rank": 354,
+    "stars": 2
   },
   {
     "slug": "financial-analyst",
@@ -2837,7 +3191,8 @@
     "score": 0.949,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/financial-analyst",
-    "rank": 355
+    "rank": 355,
+    "stars": 0
   },
   {
     "slug": "agent-dev-toolkit",
@@ -2845,7 +3200,8 @@
     "score": 0.948,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-dev-toolkit",
-    "rank": 356
+    "rank": 356,
+    "stars": 0
   },
   {
     "slug": "securityreview",
@@ -2853,7 +3209,8 @@
     "score": 0.948,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/securityreview",
-    "rank": 357
+    "rank": 357,
+    "stars": 2
   },
   {
     "slug": "openclaw-agent-browser-clawdbot",
@@ -2861,7 +3218,8 @@
     "score": 0.947,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/openclaw-agent-browser-clawdbot",
-    "rank": 358
+    "rank": 358,
+    "stars": 2
   },
   {
     "slug": "distinctive-design-systems",
@@ -2869,7 +3227,8 @@
     "score": 0.947,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/distinctive-design-systems",
-    "rank": 359
+    "rank": 359,
+    "stars": 0
   },
   {
     "slug": "workflows",
@@ -2877,7 +3236,8 @@
     "score": 0.947,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflows",
-    "rank": 360
+    "rank": 360,
+    "stars": 2
   },
   {
     "slug": "stock-study",
@@ -2885,7 +3245,8 @@
     "score": 0.947,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/stock-study",
-    "rank": 361
+    "rank": 361,
+    "stars": 0
   },
   {
     "slug": "senior-secops",
@@ -2893,7 +3254,8 @@
     "score": 0.946,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/senior-secops",
-    "rank": 362
+    "rank": 362,
+    "stars": 2
   },
   {
     "slug": "frontend-dev",
@@ -2901,7 +3263,8 @@
     "score": 0.945,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-dev",
-    "rank": 363
+    "rank": 363,
+    "stars": 0
   },
   {
     "slug": "stitch-ui-designer",
@@ -2909,7 +3272,8 @@
     "score": 0.945,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/stitch-ui-designer",
-    "rank": 364
+    "rank": 364,
+    "stars": 2
   },
   {
     "slug": "agentmesh-governance",
@@ -2917,7 +3281,8 @@
     "score": 0.945,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentmesh-governance",
-    "rank": 365
+    "rank": 365,
+    "stars": 0
   },
   {
     "slug": "agentwork",
@@ -2925,7 +3290,8 @@
     "score": 0.945,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agentwork",
-    "rank": 366
+    "rank": 366,
+    "stars": 0
   },
   {
     "slug": "8004-skill-monad",
@@ -2933,7 +3299,8 @@
     "score": 0.945,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/8004-skill-monad",
-    "rank": 367
+    "rank": 367,
+    "stars": 0
   },
   {
     "slug": "ai-brand-analyzer",
@@ -2941,7 +3308,8 @@
     "score": 0.945,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ai-brand-analyzer",
-    "rank": 368
+    "rank": 368,
+    "stars": 2
   },
   {
     "slug": "agentdo",
@@ -2949,7 +3317,8 @@
     "score": 0.944,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agentdo",
-    "rank": 369
+    "rank": 369,
+    "stars": 0
   },
   {
     "slug": "agent-browser-stealth",
@@ -2957,7 +3326,8 @@
     "score": 0.944,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-stealth",
-    "rank": 370
+    "rank": 370,
+    "stars": 0
   },
   {
     "slug": "browser-session-manager",
@@ -2965,7 +3335,8 @@
     "score": 0.944,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browser-session-manager",
-    "rank": 371
+    "rank": 371,
+    "stars": 1
   },
   {
     "slug": "developer-agent",
@@ -2973,7 +3344,8 @@
     "score": 0.944,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/developer-agent",
-    "rank": 372
+    "rank": 372,
+    "stars": 0
   },
   {
     "slug": "pets-browser",
@@ -2981,7 +3353,8 @@
     "score": 0.942,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/pets-browser",
-    "rank": 373
+    "rank": 373,
+    "stars": 1
   },
   {
     "slug": "browsermcp",
@@ -2989,7 +3362,8 @@
     "score": 0.942,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/browsermcp",
-    "rank": 374
+    "rank": 374,
+    "stars": 0
   },
   {
     "slug": "materials-workbench",
@@ -2997,7 +3371,8 @@
     "score": 0.942,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/materials-workbench",
-    "rank": 375
+    "rank": 375,
+    "stars": 0
   },
   {
     "slug": "status-web",
@@ -3005,7 +3380,8 @@
     "score": 0.942,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/status-web",
-    "rank": 376
+    "rank": 376,
+    "stars": 1
   },
   {
     "slug": "vibe-design",
@@ -3013,7 +3389,8 @@
     "score": 0.942,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/vibe-design",
-    "rank": 377
+    "rank": 377,
+    "stars": 7
   },
   {
     "slug": "product",
@@ -3021,7 +3398,8 @@
     "score": 0.942,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/product",
-    "rank": 378
+    "rank": 378,
+    "stars": 3
   },
   {
     "slug": "secure-auth-patterns",
@@ -3029,7 +3407,8 @@
     "score": 0.942,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/secure-auth-patterns",
-    "rank": 379
+    "rank": 379,
+    "stars": 0
   },
   {
     "slug": "lb-better-auth-skill",
@@ -3037,7 +3416,8 @@
     "score": 0.942,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/lb-better-auth-skill",
-    "rank": 380
+    "rank": 380,
+    "stars": 1
   },
   {
     "slug": "upwork-automation-using-ai",
@@ -3045,7 +3425,8 @@
     "score": 0.941,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/upwork-automation-using-ai",
-    "rank": 381
+    "rank": 381,
+    "stars": 0
   },
   {
     "slug": "beehiiv",
@@ -3053,7 +3434,8 @@
     "score": 0.941,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/beehiiv",
-    "rank": 382
+    "rank": 382,
+    "stars": 6
   },
   {
     "slug": "mcp-workflow",
@@ -3061,7 +3443,8 @@
     "score": 0.941,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/mcp-workflow",
-    "rank": 383
+    "rank": 383,
+    "stars": 1
   },
   {
     "slug": "call-claude-sonnet-4-agent",
@@ -3069,7 +3452,8 @@
     "score": 0.941,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/call-claude-sonnet-4-agent",
-    "rank": 384
+    "rank": 384,
+    "stars": 0
   },
   {
     "slug": "agent-conductor",
@@ -3077,7 +3461,8 @@
     "score": 0.94,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-conductor",
-    "rank": 385
+    "rank": 385,
+    "stars": 1
   },
   {
     "slug": "coding-pm",
@@ -3085,7 +3470,8 @@
     "score": 0.94,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/coding-pm",
-    "rank": 386
+    "rank": 386,
+    "stars": 0
   },
   {
     "slug": "famou-data-analysis",
@@ -3093,7 +3479,8 @@
     "score": 0.94,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/famou-data-analysis",
-    "rank": 387
+    "rank": 387,
+    "stars": 0
   },
   {
     "slug": "workflow-decomposer",
@@ -3101,7 +3488,8 @@
     "score": 0.938,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/workflow-decomposer",
-    "rank": 388
+    "rank": 388,
+    "stars": 0
   },
   {
     "slug": "agent-puzzles",
@@ -3109,7 +3497,8 @@
     "score": 0.938,
     "category": "AI與代理",
     "url": "https://clawhub.ai/skills/agent-puzzles",
-    "rank": 389
+    "rank": 389,
+    "stars": 0
   },
   {
     "slug": "ui-ux-craft-kit",
@@ -3117,7 +3506,8 @@
     "score": 0.937,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-craft-kit",
-    "rank": 390
+    "rank": 390,
+    "stars": 0
   },
   {
     "slug": "senior-security",
@@ -3125,7 +3515,8 @@
     "score": 0.937,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/senior-security",
-    "rank": 391
+    "rank": 391,
+    "stars": 7
   },
   {
     "slug": "chrome-automation",
@@ -3133,7 +3524,8 @@
     "score": 0.936,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/chrome-automation",
-    "rank": 392
+    "rank": 392,
+    "stars": 1
   },
   {
     "slug": "agb",
@@ -3141,7 +3533,8 @@
     "score": 0.936,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agb",
-    "rank": 393
+    "rank": 393,
+    "stars": 0
   },
   {
     "slug": "gizmolab-tools",
@@ -3149,7 +3542,8 @@
     "score": 0.936,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/gizmolab-tools",
-    "rank": 394
+    "rank": 394,
+    "stars": 1
   },
   {
     "slug": "aiprox",
@@ -3157,7 +3551,8 @@
     "score": 0.935,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/aiprox",
-    "rank": 395
+    "rank": 395,
+    "stars": 0
   },
   {
     "slug": "openclaw-email-lead-generation",
@@ -3165,7 +3560,8 @@
     "score": 0.935,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/openclaw-email-lead-generation",
-    "rank": 396
+    "rank": 396,
+    "stars": 4
   },
   {
     "slug": "js-eyes",
@@ -3173,7 +3569,8 @@
     "score": 0.935,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/js-eyes",
-    "rank": 397
+    "rank": 397,
+    "stars": 0
   },
   {
     "slug": "agent-browser-5",
@@ -3181,7 +3578,8 @@
     "score": 0.935,
     "category": "瀏覽器自動化",
     "url": "https://clawhub.ai/skills/agent-browser-5",
-    "rank": 398
+    "rank": 398,
+    "stars": 0
   },
   {
     "slug": "financial-design-systems",
@@ -3189,7 +3587,8 @@
     "score": 0.935,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/financial-design-systems",
-    "rank": 399
+    "rank": 399,
+    "stars": 0
   },
   {
     "slug": "hiring",
@@ -3197,7 +3596,8 @@
     "score": 0.934,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/hiring",
-    "rank": 400
+    "rank": 400,
+    "stars": 2
   },
   {
     "slug": "monarch-money",
@@ -3205,7 +3605,8 @@
     "score": 0.934,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/monarch-money",
-    "rank": 401
+    "rank": 401,
+    "stars": 1
   },
   {
     "slug": "anygen-data-analysis",
@@ -3213,7 +3614,8 @@
     "score": 0.934,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/anygen-data-analysis",
-    "rank": 402
+    "rank": 402,
+    "stars": 1
   },
   {
     "slug": "ai-stack-builder",
@@ -3221,7 +3623,8 @@
     "score": 0.933,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-stack-builder",
-    "rank": 403
+    "rank": 403,
+    "stars": 0
   },
   {
     "slug": "ui-design-optimizer",
@@ -3229,7 +3632,8 @@
     "score": 0.93,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-design-optimizer",
-    "rank": 404
+    "rank": 404,
+    "stars": 0
   },
   {
     "slug": "crm",
@@ -3237,7 +3641,8 @@
     "score": 0.929,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/crm",
-    "rank": 405
+    "rank": 405,
+    "stars": 2
   },
   {
     "slug": "business-process-audit",
@@ -3245,7 +3650,8 @@
     "score": 0.928,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/business-process-audit",
-    "rank": 406
+    "rank": 406,
+    "stars": 0
   },
   {
     "slug": "ui-ux-pro-max-0-1-0",
@@ -3253,7 +3659,8 @@
     "score": 0.928,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-ux-pro-max-0-1-0",
-    "rank": 407
+    "rank": 407,
+    "stars": 0
   },
   {
     "slug": "markdown-ui-dsl",
@@ -3261,7 +3668,8 @@
     "score": 0.928,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/markdown-ui-dsl",
-    "rank": 408
+    "rank": 408,
+    "stars": 0
   },
   {
     "slug": "ai-transformation-sprint",
@@ -3269,7 +3677,8 @@
     "score": 0.928,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-transformation-sprint",
-    "rank": 409
+    "rank": 409,
+    "stars": 0
   },
   {
     "slug": "bw-cli",
@@ -3277,7 +3686,8 @@
     "score": 0.928,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/bw-cli",
-    "rank": 410
+    "rank": 410,
+    "stars": 0
   },
   {
     "slug": "data-validation",
@@ -3285,7 +3695,8 @@
     "score": 0.927,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/data-validation",
-    "rank": 411
+    "rank": 411,
+    "stars": 1
   },
   {
     "slug": "comfyui-automation-skill",
@@ -3293,7 +3704,8 @@
     "score": 0.927,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/comfyui-automation-skill",
-    "rank": 412
+    "rank": 412,
+    "stars": 0
   },
   {
     "slug": "muapi-workflow-skill",
@@ -3301,7 +3713,8 @@
     "score": 0.925,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/muapi-workflow-skill",
-    "rank": 413
+    "rank": 413,
+    "stars": 0
   },
   {
     "slug": "swarm-kanban",
@@ -3309,7 +3722,8 @@
     "score": 0.925,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/swarm-kanban",
-    "rank": 414
+    "rank": 414,
+    "stars": 3
   },
   {
     "slug": "secops-by-joes",
@@ -3317,7 +3731,8 @@
     "score": 0.925,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/secops-by-joes",
-    "rank": 415
+    "rank": 415,
+    "stars": 4
   },
   {
     "slug": "fluent-design",
@@ -3325,7 +3740,8 @@
     "score": 0.923,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/fluent-design",
-    "rank": 416
+    "rank": 416,
+    "stars": 0
   },
   {
     "slug": "rv-industrial-design",
@@ -3333,7 +3749,8 @@
     "score": 0.923,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/rv-industrial-design",
-    "rank": 417
+    "rank": 417,
+    "stars": 0
   },
   {
     "slug": "afrexai-n8n-mastery",
@@ -3341,7 +3758,8 @@
     "score": 0.923,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/afrexai-n8n-mastery",
-    "rank": 418
+    "rank": 418,
+    "stars": 0
   },
   {
     "slug": "production-readiness",
@@ -3349,7 +3767,8 @@
     "score": 0.923,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/production-readiness",
-    "rank": 419
+    "rank": 419,
+    "stars": 0
   },
   {
     "slug": "clawdstrike-test",
@@ -3357,7 +3776,8 @@
     "score": 0.923,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/clawdstrike-test",
-    "rank": 420
+    "rank": 420,
+    "stars": 0
   },
   {
     "slug": "marketing-analytics",
@@ -3365,7 +3785,8 @@
     "score": 0.923,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/marketing-analytics",
-    "rank": 421
+    "rank": 421,
+    "stars": 2
   },
   {
     "slug": "analysis",
@@ -3373,7 +3794,8 @@
     "score": 0.923,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/analysis",
-    "rank": 422
+    "rank": 422,
+    "stars": 2
   },
   {
     "slug": "acp-job-submitter",
@@ -3381,7 +3803,8 @@
     "score": 0.922,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/acp-job-submitter",
-    "rank": 423
+    "rank": 423,
+    "stars": 0
   },
   {
     "slug": "docs-pipeline-automation",
@@ -3389,7 +3812,8 @@
     "score": 0.922,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/docs-pipeline-automation",
-    "rank": 424
+    "rank": 424,
+    "stars": 0
   },
   {
     "slug": "task-orchestra",
@@ -3397,7 +3821,8 @@
     "score": 0.922,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/task-orchestra",
-    "rank": 425
+    "rank": 425,
+    "stars": 0
   },
   {
     "slug": "hcloud",
@@ -3405,7 +3830,8 @@
     "score": 0.922,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/hcloud",
-    "rank": 426
+    "rank": 426,
+    "stars": 0
   },
   {
     "slug": "mcp-app-builder",
@@ -3413,7 +3839,8 @@
     "score": 0.92,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/mcp-app-builder",
-    "rank": 427
+    "rank": 427,
+    "stars": 0
   },
   {
     "slug": "api-security",
@@ -3421,7 +3848,8 @@
     "score": 0.92,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/api-security",
-    "rank": 428
+    "rank": 428,
+    "stars": 0
   },
   {
     "slug": "afrexai-ai-agency-blueprint",
@@ -3429,7 +3857,8 @@
     "score": 0.919,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-ai-agency-blueprint",
-    "rank": 429
+    "rank": 429,
+    "stars": 3
   },
   {
     "slug": "agent-autonomy-kit-automaton",
@@ -3437,7 +3866,8 @@
     "score": 0.919,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-autonomy-kit-automaton",
-    "rank": 430
+    "rank": 430,
+    "stars": 0
   },
   {
     "slug": "db-schema-gen",
@@ -3445,7 +3875,8 @@
     "score": 0.917,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/db-schema-gen",
-    "rank": 431
+    "rank": 431,
+    "stars": 0
   },
   {
     "slug": "nodejs-patterns",
@@ -3453,7 +3884,8 @@
     "score": 0.917,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/nodejs-patterns",
-    "rank": 432
+    "rank": 432,
+    "stars": 2
   },
   {
     "slug": "realtime-dashboard",
@@ -3461,7 +3893,8 @@
     "score": 0.917,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/realtime-dashboard",
-    "rank": 433
+    "rank": 433,
+    "stars": 0
   },
   {
     "slug": "swarmind",
@@ -3469,7 +3902,8 @@
     "score": 0.917,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/swarmind",
-    "rank": 434
+    "rank": 434,
+    "stars": 0
   },
   {
     "slug": "wp-to-static",
@@ -3477,7 +3911,8 @@
     "score": 0.917,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/wp-to-static",
-    "rank": 435
+    "rank": 435,
+    "stars": 3
   },
   {
     "slug": "digiforma",
@@ -3485,7 +3920,8 @@
     "score": 0.916,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/digiforma",
-    "rank": 436
+    "rank": 436,
+    "stars": 0
   },
   {
     "slug": "mlops-automation-cn",
@@ -3493,7 +3929,8 @@
     "score": 0.916,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/mlops-automation-cn",
-    "rank": 437
+    "rank": 437,
+    "stars": 0
   },
   {
     "slug": "agent-builder-1-0-0",
@@ -3501,7 +3938,8 @@
     "score": 0.915,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-builder-1-0-0",
-    "rank": 438
+    "rank": 438,
+    "stars": 4
   },
   {
     "slug": "agent-to-agent-payments",
@@ -3509,7 +3947,8 @@
     "score": 0.915,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-to-agent-payments",
-    "rank": 439
+    "rank": 439,
+    "stars": 0
   },
   {
     "slug": "investment-analyst",
@@ -3517,7 +3956,8 @@
     "score": 0.915,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/investment-analyst",
-    "rank": 440
+    "rank": 440,
+    "stars": 2
   },
   {
     "slug": "google-workspace-automation",
@@ -3525,7 +3965,8 @@
     "score": 0.914,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/google-workspace-automation",
-    "rank": 441
+    "rank": 441,
+    "stars": 0
   },
   {
     "slug": "kameleondb",
@@ -3533,7 +3974,8 @@
     "score": 0.914,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/kameleondb",
-    "rank": 442
+    "rank": 442,
+    "stars": 2
   },
   {
     "slug": "sovereign-api-docs-generator",
@@ -3541,7 +3983,8 @@
     "score": 0.914,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sovereign-api-docs-generator",
-    "rank": 443
+    "rank": 443,
+    "stars": 0
   },
   {
     "slug": "k3-blockchain-agent",
@@ -3549,7 +3992,8 @@
     "score": 0.914,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/k3-blockchain-agent",
-    "rank": 444
+    "rank": 444,
+    "stars": 0
   },
   {
     "slug": "auto",
@@ -3557,7 +4001,8 @@
     "score": 0.914,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/auto",
-    "rank": 445
+    "rank": 445,
+    "stars": 0
   },
   {
     "slug": "deploy-helper",
@@ -3565,7 +4010,8 @@
     "score": 0.913,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploy-helper",
-    "rank": 446
+    "rank": 446,
+    "stars": 1
   },
   {
     "slug": "linkfoxagent",
@@ -3573,7 +4019,8 @@
     "score": 0.913,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/linkfoxagent",
-    "rank": 447
+    "rank": 447,
+    "stars": 4
   },
   {
     "slug": "flexible-database-design",
@@ -3581,7 +4028,8 @@
     "score": 0.912,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/flexible-database-design",
-    "rank": 448
+    "rank": 448,
+    "stars": 0
   },
   {
     "slug": "webflow",
@@ -3589,7 +4037,8 @@
     "score": 0.912,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/webflow",
-    "rank": 449
+    "rank": 449,
+    "stars": 0
   },
   {
     "slug": "git-deploy",
@@ -3597,7 +4046,8 @@
     "score": 0.912,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/git-deploy",
-    "rank": 450
+    "rank": 450,
+    "stars": 0
   },
   {
     "slug": "agentic-security-audit",
@@ -3605,7 +4055,8 @@
     "score": 0.912,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/agentic-security-audit",
-    "rank": 451
+    "rank": 451,
+    "stars": 1
   },
   {
     "slug": "linear-browser-automation",
@@ -3613,7 +4064,8 @@
     "score": 0.911,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/linear-browser-automation",
-    "rank": 452
+    "rank": 452,
+    "stars": 0
   },
   {
     "slug": "eva-ui-skill",
@@ -3621,7 +4073,8 @@
     "score": 0.911,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/eva-ui-skill",
-    "rank": 453
+    "rank": 453,
+    "stars": 0
   },
   {
     "slug": "frontend-design-skill",
@@ -3629,7 +4082,8 @@
     "score": 0.911,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-skill",
-    "rank": 454
+    "rank": 454,
+    "stars": 1
   },
   {
     "slug": "agent-proxy-guardian",
@@ -3637,7 +4091,8 @@
     "score": 0.909,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-proxy-guardian",
-    "rank": 455
+    "rank": 455,
+    "stars": 1
   },
   {
     "slug": "afrexai-business-automation-temp",
@@ -3645,7 +4100,8 @@
     "score": 0.909,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/afrexai-business-automation-temp",
-    "rank": 456
+    "rank": 456,
+    "stars": 0
   },
   {
     "slug": "clawd-automator",
@@ -3653,7 +4109,8 @@
     "score": 0.909,
     "category": "工作流",
     "url": "https://clawhub.ai/skills/clawd-automator",
-    "rank": 457
+    "rank": 457,
+    "stars": 0
   },
   {
     "slug": "browser-booking-agent",
@@ -3661,7 +4118,8 @@
     "score": 0.908,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/browser-booking-agent",
-    "rank": 458
+    "rank": 458,
+    "stars": 0
   },
   {
     "slug": "agency-agents-openclaw",
@@ -3669,7 +4127,8 @@
     "score": 0.908,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agency-agents-openclaw",
-    "rank": 459
+    "rank": 459,
+    "stars": 0
   },
   {
     "slug": "design-system-components",
@@ -3677,7 +4136,8 @@
     "score": 0.907,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/design-system-components",
-    "rank": 460
+    "rank": 460,
+    "stars": 2
   },
   {
     "slug": "oc-security-hardener",
@@ -3685,7 +4145,8 @@
     "score": 0.907,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/oc-security-hardener",
-    "rank": 461
+    "rank": 461,
+    "stars": 1
   },
   {
     "slug": "afrexai-cybersecurity-engine",
@@ -3693,7 +4154,8 @@
     "score": 0.907,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/afrexai-cybersecurity-engine",
-    "rank": 462
+    "rank": 462,
+    "stars": 0
   },
   {
     "slug": "animated-financial-display",
@@ -3701,7 +4163,8 @@
     "score": 0.906,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/animated-financial-display",
-    "rank": 463
+    "rank": 463,
+    "stars": 0
   },
   {
     "slug": "cloudbase",
@@ -3709,7 +4172,8 @@
     "score": 0.906,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloudbase",
-    "rank": 464
+    "rank": 464,
+    "stars": 0
   },
   {
     "slug": "agent-autonomy",
@@ -3717,7 +4181,8 @@
     "score": 0.905,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-autonomy",
-    "rank": 465
+    "rank": 465,
+    "stars": 0
   },
   {
     "slug": "muapi-ui-design-skill",
@@ -3725,7 +4190,8 @@
     "score": 0.904,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/muapi-ui-design-skill",
-    "rank": 466
+    "rank": 466,
+    "stars": 0
   },
   {
     "slug": "notion-2026-01-15",
@@ -3733,7 +4199,8 @@
     "score": 0.903,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-2026-01-15",
-    "rank": 467
+    "rank": 467,
+    "stars": 0
   },
   {
     "slug": "happy-hues",
@@ -3741,7 +4208,8 @@
     "score": 0.902,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/happy-hues",
-    "rank": 468
+    "rank": 468,
+    "stars": 2
   },
   {
     "slug": "api-security-best-practices",
@@ -3749,7 +4217,8 @@
     "score": 0.902,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/api-security-best-practices",
-    "rank": 469
+    "rank": 469,
+    "stars": 0
   },
   {
     "slug": "mx-data",
@@ -3757,7 +4226,8 @@
     "score": 0.899,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/mx-data",
-    "rank": 470
+    "rank": 470,
+    "stars": 1
   },
   {
     "slug": "agentfolio",
@@ -3765,7 +4235,8 @@
     "score": 0.897,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agentfolio",
-    "rank": 471
+    "rank": 471,
+    "stars": 0
   },
   {
     "slug": "azure-auth",
@@ -3773,7 +4244,8 @@
     "score": 0.897,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/azure-auth",
-    "rank": 472
+    "rank": 472,
+    "stars": 1
   },
   {
     "slug": "quant-analyst-skill",
@@ -3781,7 +4253,8 @@
     "score": 0.897,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/quant-analyst-skill",
-    "rank": 473
+    "rank": 473,
+    "stars": 0
   },
   {
     "slug": "afrexai-agent-engineering",
@@ -3789,7 +4262,8 @@
     "score": 0.896,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-agent-engineering",
-    "rank": 474
+    "rank": 474,
+    "stars": 0
   },
   {
     "slug": "cloud-doc-intelligent-assistant",
@@ -3797,7 +4271,8 @@
     "score": 0.896,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-doc-intelligent-assistant",
-    "rank": 475
+    "rank": 475,
+    "stars": 0
   },
   {
     "slug": "yinan-data-analyzer",
@@ -3805,7 +4280,8 @@
     "score": 0.895,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/yinan-data-analyzer",
-    "rank": 476
+    "rank": 476,
+    "stars": 0
   },
   {
     "slug": "metrika-analysis",
@@ -3813,7 +4289,8 @@
     "score": 0.894,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/metrika-analysis",
-    "rank": 477
+    "rank": 477,
+    "stars": 1
   },
   {
     "slug": "afrexai-data-analyst",
@@ -3821,7 +4298,8 @@
     "score": 0.894,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/afrexai-data-analyst",
-    "rank": 478
+    "rank": 478,
+    "stars": 0
   },
   {
     "slug": "vercel-deployment",
@@ -3829,7 +4307,8 @@
     "score": 0.893,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/vercel-deployment",
-    "rank": 479
+    "rank": 479,
+    "stars": 0
   },
   {
     "slug": "firebase-auth-setup",
@@ -3837,7 +4316,8 @@
     "score": 0.893,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/firebase-auth-setup",
-    "rank": 480
+    "rank": 480,
+    "stars": 0
   },
   {
     "slug": "dune-analytics-api",
@@ -3845,7 +4325,8 @@
     "score": 0.892,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/dune-analytics-api",
-    "rank": 481
+    "rank": 481,
+    "stars": 2
   },
   {
     "slug": "finops",
@@ -3853,7 +4334,8 @@
     "score": 0.89,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/finops",
-    "rank": 482
+    "rank": 482,
+    "stars": 0
   },
   {
     "slug": "cloud-sdk",
@@ -3861,7 +4343,8 @@
     "score": 0.89,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-sdk",
-    "rank": 483
+    "rank": 483,
+    "stars": 0
   },
   {
     "slug": "lead-automation",
@@ -3869,7 +4352,8 @@
     "score": 0.889,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/lead-automation",
-    "rank": 484
+    "rank": 484,
+    "stars": 1
   },
   {
     "slug": "minimalist-design-system",
@@ -3877,7 +4361,8 @@
     "score": 0.888,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/minimalist-design-system",
-    "rank": 485
+    "rank": 485,
+    "stars": 0
   },
   {
     "slug": "sports-odds",
@@ -3885,7 +4370,8 @@
     "score": 0.887,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sports-odds",
-    "rank": 486
+    "rank": 486,
+    "stars": 0
   },
   {
     "slug": "notion-1-0-0",
@@ -3893,7 +4379,8 @@
     "score": 0.887,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-1-0-0",
-    "rank": 487
+    "rank": 487,
+    "stars": 0
   },
   {
     "slug": "openclaw-credential-manager",
@@ -3901,7 +4388,8 @@
     "score": 0.887,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/openclaw-credential-manager",
-    "rank": 488
+    "rank": 488,
+    "stars": 0
   },
   {
     "slug": "data-visualizer",
@@ -3909,7 +4397,8 @@
     "score": 0.887,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-visualizer",
-    "rank": 489
+    "rank": 489,
+    "stars": 0
   },
   {
     "slug": "phone-agent-skill",
@@ -3917,7 +4406,8 @@
     "score": 0.886,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/phone-agent-skill",
-    "rank": 490
+    "rank": 490,
+    "stars": 0
   },
   {
     "slug": "mh-notion",
@@ -3925,7 +4415,8 @@
     "score": 0.886,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/mh-notion",
-    "rank": 491
+    "rank": 491,
+    "stars": 0
   },
   {
     "slug": "agent-id",
@@ -3933,7 +4424,8 @@
     "score": 0.885,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-id",
-    "rank": 492
+    "rank": 492,
+    "stars": 0
   },
   {
     "slug": "frontend-design-3-0-1-0",
@@ -3941,7 +4433,8 @@
     "score": 0.885,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/frontend-design-3-0-1-0",
-    "rank": 493
+    "rank": 493,
+    "stars": 0
   },
   {
     "slug": "skytekx",
@@ -3949,7 +4442,8 @@
     "score": 0.885,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/skytekx",
-    "rank": 494
+    "rank": 494,
+    "stars": 0
   },
   {
     "slug": "shadcn-theme-default",
@@ -3957,7 +4451,8 @@
     "score": 0.884,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/shadcn-theme-default",
-    "rank": 495
+    "rank": 495,
+    "stars": 0
   },
   {
     "slug": "twofactor",
@@ -3965,7 +4460,8 @@
     "score": 0.883,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/twofactor",
-    "rank": 496
+    "rank": 496,
+    "stars": 0
   },
   {
     "slug": "orderly-ui-components",
@@ -3973,7 +4469,8 @@
     "score": 0.882,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/orderly-ui-components",
-    "rank": 497
+    "rank": 497,
+    "stars": 0
   },
   {
     "slug": "direct-analysis",
@@ -3981,7 +4478,8 @@
     "score": 0.882,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/direct-analysis",
-    "rank": 498
+    "rank": 498,
+    "stars": 0
   },
   {
     "slug": "rocm-vllm-deployment",
@@ -3989,7 +4487,8 @@
     "score": 0.881,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/rocm-vllm-deployment",
-    "rank": 499
+    "rank": 499,
+    "stars": 2
   },
   {
     "slug": "api-generator",
@@ -3997,7 +4496,8 @@
     "score": 0.88,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-generator",
-    "rank": 500
+    "rank": 500,
+    "stars": 1
   },
   {
     "slug": "tooldyn",
@@ -4005,7 +4505,8 @@
     "score": 0.878,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/tooldyn",
-    "rank": 501
+    "rank": 501,
+    "stars": 0
   },
   {
     "slug": "mty-frontend-design-zh",
@@ -4013,7 +4514,8 @@
     "score": 0.877,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/mty-frontend-design-zh",
-    "rank": 502
+    "rank": 502,
+    "stars": 0
   },
   {
     "slug": "taizi-ai-productivity-audit",
@@ -4021,7 +4523,8 @@
     "score": 0.876,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/taizi-ai-productivity-audit",
-    "rank": 503
+    "rank": 503,
+    "stars": 0
   },
   {
     "slug": "agent-emacs",
@@ -4029,7 +4532,8 @@
     "score": 0.875,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-emacs",
-    "rank": 504
+    "rank": 504,
+    "stars": 1
   },
   {
     "slug": "component-api-design",
@@ -4037,7 +4541,8 @@
     "score": 0.875,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/component-api-design",
-    "rank": 505
+    "rank": 505,
+    "stars": 0
   },
   {
     "slug": "security-guardian",
@@ -4045,7 +4550,8 @@
     "score": 0.875,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-guardian",
-    "rank": 506
+    "rank": 506,
+    "stars": 0
   },
   {
     "slug": "database-design",
@@ -4053,7 +4559,8 @@
     "score": 0.874,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-design",
-    "rank": 507
+    "rank": 507,
+    "stars": 0
   },
   {
     "slug": "jwt",
@@ -4061,7 +4568,8 @@
     "score": 0.874,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/jwt",
-    "rank": 508
+    "rank": 508,
+    "stars": 2
   },
   {
     "slug": "ai-receptionist",
@@ -4069,7 +4577,8 @@
     "score": 0.873,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/ai-receptionist",
-    "rank": 509
+    "rank": 509,
+    "stars": 0
   },
   {
     "slug": "autoglm-toolkit",
@@ -4077,7 +4586,8 @@
     "score": 0.873,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/autoglm-toolkit",
-    "rank": 510
+    "rank": 510,
+    "stars": 0
   },
   {
     "slug": "html-designer",
@@ -4085,7 +4595,8 @@
     "score": 0.873,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/html-designer",
-    "rank": 511
+    "rank": 511,
+    "stars": 3
   },
   {
     "slug": "ub2-csv-data-analyzer",
@@ -4093,7 +4604,8 @@
     "score": 0.873,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ub2-csv-data-analyzer",
-    "rank": 512
+    "rank": 512,
+    "stars": 0
   },
   {
     "slug": "baidu-search-openclaw",
@@ -4101,7 +4613,8 @@
     "score": 0.872,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/baidu-search-openclaw",
-    "rank": 513
+    "rank": 513,
+    "stars": 0
   },
   {
     "slug": "stock-analysis-agent",
@@ -4109,7 +4622,8 @@
     "score": 0.872,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/stock-analysis-agent",
-    "rank": 514
+    "rank": 514,
+    "stars": 1
   },
   {
     "slug": "data-analyzer",
@@ -4117,7 +4631,8 @@
     "score": 0.871,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analyzer",
-    "rank": 515
+    "rank": 515,
+    "stars": 0
   },
   {
     "slug": "afrexai-benefits-admin",
@@ -4125,7 +4640,8 @@
     "score": 0.869,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-benefits-admin",
-    "rank": 516
+    "rank": 516,
+    "stars": 0
   },
   {
     "slug": "vibe-notion",
@@ -4133,7 +4649,8 @@
     "score": 0.869,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/vibe-notion",
-    "rank": 517
+    "rank": 517,
+    "stars": 0
   },
   {
     "slug": "watadot-aws-ec2",
@@ -4141,7 +4658,8 @@
     "score": 0.869,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/watadot-aws-ec2",
-    "rank": 518
+    "rank": 518,
+    "stars": 0
   },
   {
     "slug": "ui-design-tips",
@@ -4149,7 +4667,8 @@
     "score": 0.867,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ui-design-tips",
-    "rank": 519
+    "rank": 519,
+    "stars": 1
   },
   {
     "slug": "cx-agent-studio",
@@ -4157,7 +4676,8 @@
     "score": 0.864,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/cx-agent-studio",
-    "rank": 520
+    "rank": 520,
+    "stars": 0
   },
   {
     "slug": "database-manager",
@@ -4165,7 +4685,8 @@
     "score": 0.863,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-manager",
-    "rank": 521
+    "rank": 521,
+    "stars": 0
   },
   {
     "slug": "ios-view-generator",
@@ -4173,7 +4694,8 @@
     "score": 0.863,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ios-view-generator",
-    "rank": 522
+    "rank": 522,
+    "stars": 0
   },
   {
     "slug": "aioz-ui-skills",
@@ -4181,7 +4703,8 @@
     "score": 0.863,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/aioz-ui-skills",
-    "rank": 523
+    "rank": 523,
+    "stars": 2
   },
   {
     "slug": "tandemn-tuna",
@@ -4189,7 +4712,8 @@
     "score": 0.863,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/tandemn-tuna",
-    "rank": 524
+    "rank": 524,
+    "stars": 0
   },
   {
     "slug": "ckt-design",
@@ -4197,7 +4721,8 @@
     "score": 0.862,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/ckt-design",
-    "rank": 525
+    "rank": 525,
+    "stars": 1
   },
   {
     "slug": "agentstead-deploy",
@@ -4205,7 +4730,8 @@
     "score": 0.862,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/agentstead-deploy",
-    "rank": 526
+    "rank": 526,
+    "stars": 0
   },
   {
     "slug": "github-passwordless-setup",
@@ -4213,7 +4739,8 @@
     "score": 0.86,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/github-passwordless-setup",
-    "rank": 527
+    "rank": 527,
+    "stars": 0
   },
   {
     "slug": "openclaw-vps-deploy",
@@ -4221,7 +4748,8 @@
     "score": 0.858,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/openclaw-vps-deploy",
-    "rank": 528
+    "rank": 528,
+    "stars": 0
   },
   {
     "slug": "ai-dev-tools",
@@ -4229,7 +4757,8 @@
     "score": 0.858,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-dev-tools",
-    "rank": 529
+    "rank": 529,
+    "stars": 0
   },
   {
     "slug": "agent-browser-clawdbot-0-1-0",
@@ -4237,7 +4766,8 @@
     "score": 0.857,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-browser-clawdbot-0-1-0",
-    "rank": 530
+    "rank": 530,
+    "stars": 0
   },
   {
     "slug": "agent-autonomy-kit-1-0-0",
@@ -4245,7 +4775,8 @@
     "score": 0.857,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-autonomy-kit-1-0-0",
-    "rank": 531
+    "rank": 531,
+    "stars": 0
   },
   {
     "slug": "zai-search",
@@ -4253,7 +4784,8 @@
     "score": 0.857,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/zai-search",
-    "rank": 532
+    "rank": 532,
+    "stars": 1
   },
   {
     "slug": "postgres-db",
@@ -4261,7 +4793,8 @@
     "score": 0.856,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/postgres-db",
-    "rank": 533
+    "rank": 533,
+    "stars": 1
   },
   {
     "slug": "biostatistics",
@@ -4269,7 +4802,8 @@
     "score": 0.856,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/biostatistics",
-    "rank": 534
+    "rank": 534,
+    "stars": 0
   },
   {
     "slug": "aiprox-orchestrator",
@@ -4277,7 +4811,8 @@
     "score": 0.855,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/aiprox-orchestrator",
-    "rank": 535
+    "rank": 535,
+    "stars": 0
   },
   {
     "slug": "material-design",
@@ -4285,7 +4820,8 @@
     "score": 0.855,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/material-design",
-    "rank": 536
+    "rank": 536,
+    "stars": 0
   },
   {
     "slug": "openpecha-frontend-skill",
@@ -4293,7 +4829,8 @@
     "score": 0.855,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/openpecha-frontend-skill",
-    "rank": 537
+    "rank": 537,
+    "stars": 0
   },
   {
     "slug": "afrexai-aaas-roi-calculator",
@@ -4301,7 +4838,8 @@
     "score": 0.854,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/afrexai-aaas-roi-calculator",
-    "rank": 538
+    "rank": 538,
+    "stars": 0
   },
   {
     "slug": "agent-bounty-scanner",
@@ -4309,7 +4847,8 @@
     "score": 0.854,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-bounty-scanner",
-    "rank": 539
+    "rank": 539,
+    "stars": 0
   },
   {
     "slug": "agent-commercial-contract",
@@ -4317,7 +4856,8 @@
     "score": 0.854,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-commercial-contract",
-    "rank": 540
+    "rank": 540,
+    "stars": 0
   },
   {
     "slug": "coda-api",
@@ -4325,7 +4865,8 @@
     "score": 0.854,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/coda-api",
-    "rank": 541
+    "rank": 541,
+    "stars": 2
   },
   {
     "slug": "ag-earth",
@@ -4333,7 +4874,8 @@
     "score": 0.854,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ag-earth",
-    "rank": 542
+    "rank": 542,
+    "stars": 0
   },
   {
     "slug": "super-product",
@@ -4341,7 +4883,8 @@
     "score": 0.854,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/super-product",
-    "rank": 543
+    "rank": 543,
+    "stars": 0
   },
   {
     "slug": "agent-launchpad",
@@ -4349,7 +4892,8 @@
     "score": 0.853,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-launchpad",
-    "rank": 544
+    "rank": 544,
+    "stars": 0
   },
   {
     "slug": "automation-workflow-builder",
@@ -4357,7 +4901,8 @@
     "score": 0.853,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/automation-workflow-builder",
-    "rank": 545
+    "rank": 545,
+    "stars": 0
   },
   {
     "slug": "aleph-vm-replication",
@@ -4365,7 +4910,8 @@
     "score": 0.853,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/aleph-vm-replication",
-    "rank": 546
+    "rank": 546,
+    "stars": 0
   },
   {
     "slug": "security-best-practices",
@@ -4373,7 +4919,8 @@
     "score": 0.853,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-best-practices",
-    "rank": 547
+    "rank": 547,
+    "stars": 0
   },
   {
     "slug": "agent-autonomy-kit-bak",
@@ -4381,7 +4928,8 @@
     "score": 0.852,
     "category": "自動化",
     "url": "https://clawhub.ai/skills/agent-autonomy-kit-bak",
-    "rank": 548
+    "rank": 548,
+    "stars": 0
   },
   {
     "slug": "database-schema-designer",
@@ -4389,7 +4937,8 @@
     "score": 0.852,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-schema-designer",
-    "rank": 549
+    "rank": 549,
+    "stars": 1
   },
   {
     "slug": "openclaw-security-toolkit",
@@ -4397,7 +4946,8 @@
     "score": 0.852,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/openclaw-security-toolkit",
-    "rank": 550
+    "rank": 550,
+    "stars": 0
   },
   {
     "slug": "data-analysis-skill",
@@ -4405,7 +4955,8 @@
     "score": 0.852,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analysis-skill",
-    "rank": 551
+    "rank": 551,
+    "stars": 0
   },
   {
     "slug": "quant-system-5steps",
@@ -4413,7 +4964,8 @@
     "score": 0.852,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/quant-system-5steps",
-    "rank": 552
+    "rank": 552,
+    "stars": 0
   },
   {
     "slug": "security-hardening",
@@ -4421,7 +4973,8 @@
     "score": 0.851,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-hardening",
-    "rank": 553
+    "rank": 553,
+    "stars": 0
   },
   {
     "slug": "api-design",
@@ -4429,7 +4982,8 @@
     "score": 0.849,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-design",
-    "rank": 554
+    "rank": 554,
+    "stars": 0
   },
   {
     "slug": "front-end-design",
@@ -4437,7 +4991,8 @@
     "score": 0.848,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/front-end-design",
-    "rank": 555
+    "rank": 555,
+    "stars": 2
   },
   {
     "slug": "volcengine-security-kms",
@@ -4445,7 +5000,8 @@
     "score": 0.848,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/volcengine-security-kms",
-    "rank": 556
+    "rank": 556,
+    "stars": 0
   },
   {
     "slug": "security-operator",
@@ -4453,7 +5009,8 @@
     "score": 0.848,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-operator",
-    "rank": 557
+    "rank": 557,
+    "stars": 0
   },
   {
     "slug": "aioz-ui-v3",
@@ -4461,7 +5018,8 @@
     "score": 0.847,
     "category": "前端與UI",
     "url": "https://clawhub.ai/skills/aioz-ui-v3",
-    "rank": 558
+    "rank": 558,
+    "stars": 0
   },
   {
     "slug": "watadot-aws-lambda",
@@ -4469,7 +5027,8 @@
     "score": 0.846,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/watadot-aws-lambda",
-    "rank": 559
+    "rank": 559,
+    "stars": 0
   },
   {
     "slug": "cloudcc-cli-dev",
@@ -4477,7 +5036,8 @@
     "score": 0.845,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloudcc-cli-dev",
-    "rank": 560
+    "rank": 560,
+    "stars": 0
   },
   {
     "slug": "review-analysis",
@@ -4485,7 +5045,8 @@
     "score": 0.845,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/review-analysis",
-    "rank": 561
+    "rank": 561,
+    "stars": 0
   },
   {
     "slug": "awen",
@@ -4493,7 +5054,8 @@
     "score": 0.844,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/awen",
-    "rank": 562
+    "rank": 562,
+    "stars": 0
   },
   {
     "slug": "sovereign-api-mock-generator",
@@ -4501,7 +5063,8 @@
     "score": 0.842,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/sovereign-api-mock-generator",
-    "rank": 563
+    "rank": 563,
+    "stars": 0
   },
   {
     "slug": "cto-playbook",
@@ -4509,7 +5072,8 @@
     "score": 0.842,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cto-playbook",
-    "rank": 564
+    "rank": 564,
+    "stars": 0
   },
   {
     "slug": "excel-ai-analyzer",
@@ -4517,7 +5081,8 @@
     "score": 0.842,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/excel-ai-analyzer",
-    "rank": 565
+    "rank": 565,
+    "stars": 0
   },
   {
     "slug": "tools-page-generator",
@@ -4525,7 +5090,8 @@
     "score": 0.841,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/tools-page-generator",
-    "rank": 566
+    "rank": 566,
+    "stars": 0
   },
   {
     "slug": "ad-creative-analysis",
@@ -4533,7 +5099,8 @@
     "score": 0.839,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ad-creative-analysis",
-    "rank": 567
+    "rank": 567,
+    "stars": 1
   },
   {
     "slug": "google-bigquery",
@@ -4541,7 +5108,8 @@
     "score": 0.837,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/google-bigquery",
-    "rank": 568
+    "rank": 568,
+    "stars": 0
   },
   {
     "slug": "baserow",
@@ -4549,7 +5117,8 @@
     "score": 0.836,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/baserow",
-    "rank": 569
+    "rank": 569,
+    "stars": 0
   },
   {
     "slug": "schema-builder",
@@ -4557,7 +5126,8 @@
     "score": 0.836,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/schema-builder",
-    "rank": 570
+    "rank": 570,
+    "stars": 0
   },
   {
     "slug": "dokploy-v2",
@@ -4565,7 +5135,8 @@
     "score": 0.836,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/dokploy-v2",
-    "rank": 571
+    "rank": 571,
+    "stars": 0
   },
   {
     "slug": "pixshop-mcp",
@@ -4573,7 +5144,8 @@
     "score": 0.836,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/pixshop-mcp",
-    "rank": 572
+    "rank": 572,
+    "stars": 0
   },
   {
     "slug": "football-data",
@@ -4581,7 +5153,8 @@
     "score": 0.835,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/football-data",
-    "rank": 573
+    "rank": 573,
+    "stars": 0
   },
   {
     "slug": "openclaw-timestamp-converter",
@@ -4589,7 +5162,8 @@
     "score": 0.833,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/openclaw-timestamp-converter",
-    "rank": 574
+    "rank": 574,
+    "stars": 0
   },
   {
     "slug": "gi-database-query-patterns",
@@ -4597,7 +5171,8 @@
     "score": 0.832,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/gi-database-query-patterns",
-    "rank": 575
+    "rank": 575,
+    "stars": 0
   },
   {
     "slug": "security-guard",
@@ -4605,7 +5180,8 @@
     "score": 0.832,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-guard",
-    "rank": 576
+    "rank": 576,
+    "stars": 1
   },
   {
     "slug": "openclaw-skill-obsidian-cloudflare-pages",
@@ -4613,7 +5189,8 @@
     "score": 0.831,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/openclaw-skill-obsidian-cloudflare-pages",
-    "rank": 577
+    "rank": 577,
+    "stars": 0
   },
   {
     "slug": "pixshop-cli",
@@ -4621,7 +5198,8 @@
     "score": 0.83,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/pixshop-cli",
-    "rank": 578
+    "rank": 578,
+    "stars": 0
   },
   {
     "slug": "olo-sec-scanner",
@@ -4629,7 +5207,8 @@
     "score": 0.829,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/olo-sec-scanner",
-    "rank": 579
+    "rank": 579,
+    "stars": 0
   },
   {
     "slug": "warehouse-ui",
@@ -4637,7 +5216,8 @@
     "score": 0.827,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/warehouse-ui",
-    "rank": 580
+    "rank": 580,
+    "stars": 1
   },
   {
     "slug": "campaign-analytics",
@@ -4645,7 +5225,8 @@
     "score": 0.827,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/campaign-analytics",
-    "rank": 581
+    "rank": 581,
+    "stars": 0
   },
   {
     "slug": "tavily-search-yourname",
@@ -4653,7 +5234,8 @@
     "score": 0.826,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/tavily-search-yourname",
-    "rank": 582
+    "rank": 582,
+    "stars": 0
   },
   {
     "slug": "notion-test",
@@ -4661,7 +5243,8 @@
     "score": 0.826,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-test",
-    "rank": 583
+    "rank": 583,
+    "stars": 0
   },
   {
     "slug": "data-analyst-cn-zc",
@@ -4669,7 +5252,8 @@
     "score": 0.826,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analyst-cn-zc",
-    "rank": 584
+    "rank": 584,
+    "stars": 0
   },
   {
     "slug": "snapchat",
@@ -4677,7 +5261,8 @@
     "score": 0.825,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/snapchat",
-    "rank": 585
+    "rank": 585,
+    "stars": 1
   },
   {
     "slug": "github-deploy-skill",
@@ -4685,7 +5270,8 @@
     "score": 0.825,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/github-deploy-skill",
-    "rank": 586
+    "rank": 586,
+    "stars": 0
   },
   {
     "slug": "jpeng-data-analyzer",
@@ -4693,7 +5279,8 @@
     "score": 0.825,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/jpeng-data-analyzer",
-    "rank": 587
+    "rank": 587,
+    "stars": 0
   },
   {
     "slug": "ink-skill",
@@ -4701,7 +5288,8 @@
     "score": 0.823,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/ink-skill",
-    "rank": 588
+    "rank": 588,
+    "stars": 0
   },
   {
     "slug": "datamaster-pro",
@@ -4709,7 +5297,8 @@
     "score": 0.823,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/datamaster-pro",
-    "rank": 589
+    "rank": 589,
+    "stars": 0
   },
   {
     "slug": "datafenxi",
@@ -4717,7 +5306,8 @@
     "score": 0.823,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/datafenxi",
-    "rank": 590
+    "rank": 590,
+    "stars": 0
   },
   {
     "slug": "shadows-deploy-guardian",
@@ -4725,7 +5315,8 @@
     "score": 0.822,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/shadows-deploy-guardian",
-    "rank": 591
+    "rank": 591,
+    "stars": 0
   },
   {
     "slug": "ai-exposure-analysis-for-investing",
@@ -4733,7 +5324,8 @@
     "score": 0.822,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ai-exposure-analysis-for-investing",
-    "rank": 592
+    "rank": 592,
+    "stars": 1
   },
   {
     "slug": "aleph-cloud-self-deployment",
@@ -4741,7 +5333,8 @@
     "score": 0.821,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/aleph-cloud-self-deployment",
-    "rank": 593
+    "rank": 593,
+    "stars": 0
   },
   {
     "slug": "notion-api-integration",
@@ -4749,7 +5342,8 @@
     "score": 0.82,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/notion-api-integration",
-    "rank": 594
+    "rank": 594,
+    "stars": 0
   },
   {
     "slug": "ml-model-eval-benchmark",
@@ -4757,7 +5351,8 @@
     "score": 0.82,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/ml-model-eval-benchmark",
-    "rank": 595
+    "rank": 595,
+    "stars": 0
   },
   {
     "slug": "web3-data",
@@ -4765,7 +5360,8 @@
     "score": 0.819,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/web3-data",
-    "rank": 596
+    "rank": 596,
+    "stars": 0
   },
   {
     "slug": "traffic-structure-analyzer",
@@ -4773,7 +5369,8 @@
     "score": 0.818,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/traffic-structure-analyzer",
-    "rank": 597
+    "rank": 597,
+    "stars": 0
   },
   {
     "slug": "dx-data-navigator",
@@ -4781,7 +5378,8 @@
     "score": 0.815,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/dx-data-navigator",
-    "rank": 598
+    "rank": 598,
+    "stars": 0
   },
   {
     "slug": "api-debugger-cn",
@@ -4789,7 +5387,8 @@
     "score": 0.814,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-debugger-cn",
-    "rank": 599
+    "rank": 599,
+    "stars": 0
   },
   {
     "slug": "social-media-title-insight",
@@ -4797,7 +5396,8 @@
     "score": 0.812,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/social-media-title-insight",
-    "rank": 600
+    "rank": 600,
+    "stars": 0
   },
   {
     "slug": "teamgram-database-schema",
@@ -4805,7 +5405,8 @@
     "score": 0.81,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/teamgram-database-schema",
-    "rank": 601
+    "rank": 601,
+    "stars": 0
   },
   {
     "slug": "uplo-data-analytics",
@@ -4813,7 +5414,8 @@
     "score": 0.809,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/uplo-data-analytics",
-    "rank": 602
+    "rank": 602,
+    "stars": 0
   },
   {
     "slug": "session-password",
@@ -4821,7 +5423,8 @@
     "score": 0.808,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/session-password",
-    "rank": 603
+    "rank": 603,
+    "stars": 1
   },
   {
     "slug": "healthsync",
@@ -4829,7 +5432,8 @@
     "score": 0.807,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/healthsync",
-    "rank": 604
+    "rank": 604,
+    "stars": 0
   },
   {
     "slug": "fl-sql-analyst",
@@ -4837,7 +5441,8 @@
     "score": 0.807,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/fl-sql-analyst",
-    "rank": 605
+    "rank": 605,
+    "stars": 1
   },
   {
     "slug": "database-admin",
@@ -4845,7 +5450,8 @@
     "score": 0.805,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/database-admin",
-    "rank": 606
+    "rank": 606,
+    "stars": 0
   },
   {
     "slug": "optionwhales",
@@ -4853,7 +5459,8 @@
     "score": 0.805,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/optionwhales",
-    "rank": 607
+    "rank": 607,
+    "stars": 1
   },
   {
     "slug": "trueprofit",
@@ -4861,7 +5468,8 @@
     "score": 0.804,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/trueprofit",
-    "rank": 608
+    "rank": 608,
+    "stars": 0
   },
   {
     "slug": "nidhov01-notion",
@@ -4869,7 +5477,8 @@
     "score": 0.803,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/nidhov01-notion",
-    "rank": 609
+    "rank": 609,
+    "stars": 0
   },
   {
     "slug": "smart-data-analyst",
@@ -4877,7 +5486,8 @@
     "score": 0.803,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/smart-data-analyst",
-    "rank": 610
+    "rank": 610,
+    "stars": 0
   },
   {
     "slug": "productivity-tracker",
@@ -4885,7 +5495,8 @@
     "score": 0.802,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/productivity-tracker",
-    "rank": 611
+    "rank": 611,
+    "stars": 0
   },
   {
     "slug": "agent-audit-shield",
@@ -4893,7 +5504,8 @@
     "score": 0.801,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/agent-audit-shield",
-    "rank": 612
+    "rank": 612,
+    "stars": 0
   },
   {
     "slug": "jpeng-database-manager",
@@ -4901,7 +5513,8 @@
     "score": 0.8,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/jpeng-database-manager",
-    "rank": 613
+    "rank": 613,
+    "stars": 0
   },
   {
     "slug": "business-tools",
@@ -4909,7 +5522,8 @@
     "score": 0.8,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/business-tools",
-    "rank": 614
+    "rank": 614,
+    "stars": 0
   },
   {
     "slug": "verified-agent-identity-3",
@@ -4917,7 +5531,8 @@
     "score": 0.799,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/verified-agent-identity-3",
-    "rank": 615
+    "rank": 615,
+    "stars": 0
   },
   {
     "slug": "api-doc-writer",
@@ -4925,7 +5540,8 @@
     "score": 0.798,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-doc-writer",
-    "rank": 616
+    "rank": 616,
+    "stars": 0
   },
   {
     "slug": "dev-deploy",
@@ -4933,7 +5549,8 @@
     "score": 0.798,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/dev-deploy",
-    "rank": 617
+    "rank": 617,
+    "stars": 1
   },
   {
     "slug": "geo-ai-plugin-builder",
@@ -4941,7 +5558,8 @@
     "score": 0.798,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/geo-ai-plugin-builder",
-    "rank": 618
+    "rank": 618,
+    "stars": 0
   },
   {
     "slug": "personal-deploy",
@@ -4949,7 +5567,8 @@
     "score": 0.796,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/personal-deploy",
-    "rank": 619
+    "rank": 619,
+    "stars": 1
   },
   {
     "slug": "cloudmigrate",
@@ -4957,7 +5576,8 @@
     "score": 0.796,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloudmigrate",
-    "rank": 620
+    "rank": 620,
+    "stars": 0
   },
   {
     "slug": "skill-109",
@@ -4965,7 +5585,8 @@
     "score": 0.795,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/skill-109",
-    "rank": 621
+    "rank": 621,
+    "stars": 0
   },
   {
     "slug": "campaign-retrospective-analyst",
@@ -4973,7 +5594,8 @@
     "score": 0.794,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/campaign-retrospective-analyst",
-    "rank": 622
+    "rank": 622,
+    "stars": 1
   },
   {
     "slug": "cs-financial-analyst",
@@ -4981,7 +5603,8 @@
     "score": 0.794,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/cs-financial-analyst",
-    "rank": 623
+    "rank": 623,
+    "stars": 0
   },
   {
     "slug": "magic-api-generate",
@@ -4989,7 +5612,8 @@
     "score": 0.793,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/magic-api-generate",
-    "rank": 624
+    "rank": 624,
+    "stars": 1
   },
   {
     "slug": "rbw",
@@ -4997,7 +5621,8 @@
     "score": 0.793,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/rbw",
-    "rank": 625
+    "rank": 625,
+    "stars": 1
   },
   {
     "slug": "agent-deployment-checklist",
@@ -5005,7 +5630,8 @@
     "score": 0.791,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/agent-deployment-checklist",
-    "rank": 626
+    "rank": 626,
+    "stars": 0
   },
   {
     "slug": "differential-gene-analysis-rna-seq",
@@ -5013,7 +5639,8 @@
     "score": 0.791,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/differential-gene-analysis-rna-seq",
-    "rank": 627
+    "rank": 627,
+    "stars": 0
   },
   {
     "slug": "reason",
@@ -5021,7 +5648,8 @@
     "score": 0.791,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/reason",
-    "rank": 628
+    "rank": 628,
+    "stars": 0
   },
   {
     "slug": "baserow-api",
@@ -5029,7 +5657,8 @@
     "score": 0.79,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/baserow-api",
-    "rank": 629
+    "rank": 629,
+    "stars": 0
   },
   {
     "slug": "add-tools",
@@ -5037,7 +5666,8 @@
     "score": 0.788,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/add-tools",
-    "rank": 630
+    "rank": 630,
+    "stars": 0
   },
   {
     "slug": "differential-gene-analysis",
@@ -5045,7 +5675,8 @@
     "score": 0.788,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/differential-gene-analysis",
-    "rank": 631
+    "rank": 631,
+    "stars": 0
   },
   {
     "slug": "tools-litiao",
@@ -5053,7 +5684,8 @@
     "score": 0.787,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/tools-litiao",
-    "rank": 632
+    "rank": 632,
+    "stars": 0
   },
   {
     "slug": "openclaw-notion-api",
@@ -5061,7 +5693,8 @@
     "score": 0.786,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/openclaw-notion-api",
-    "rank": 633
+    "rank": 633,
+    "stars": 0
   },
   {
     "slug": "uplo-devops",
@@ -5069,7 +5702,8 @@
     "score": 0.786,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/uplo-devops",
-    "rank": 634
+    "rank": 634,
+    "stars": 0
   },
   {
     "slug": "scraperapi-mcp",
@@ -5077,7 +5711,8 @@
     "score": 0.786,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/scraperapi-mcp",
-    "rank": 635
+    "rank": 635,
+    "stars": 0
   },
   {
     "slug": "openclaw-analysis",
@@ -5085,7 +5720,8 @@
     "score": 0.786,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/openclaw-analysis",
-    "rank": 636
+    "rank": 636,
+    "stars": 0
   },
   {
     "slug": "api-docs-generator",
@@ -5093,7 +5729,8 @@
     "score": 0.785,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/api-docs-generator",
-    "rank": 637
+    "rank": 637,
+    "stars": 0
   },
   {
     "slug": "watadot-aws-cloudwatch",
@@ -5101,7 +5738,8 @@
     "score": 0.785,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/watadot-aws-cloudwatch",
-    "rank": 638
+    "rank": 638,
+    "stars": 0
   },
   {
     "slug": "ai-tools",
@@ -5109,7 +5747,8 @@
     "score": 0.785,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-tools",
-    "rank": 639
+    "rank": 639,
+    "stars": 0
   },
   {
     "slug": "authentication",
@@ -5117,7 +5756,8 @@
     "score": 0.785,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/authentication",
-    "rank": 640
+    "rank": 640,
+    "stars": 0
   },
   {
     "slug": "hyperv-create-vm",
@@ -5125,7 +5765,8 @@
     "score": 0.783,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/hyperv-create-vm",
-    "rank": 641
+    "rank": 641,
+    "stars": 0
   },
   {
     "slug": "verified-agent-identity-2",
@@ -5133,7 +5774,8 @@
     "score": 0.783,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/verified-agent-identity-2",
-    "rank": 642
+    "rank": 642,
+    "stars": 0
   },
   {
     "slug": "pharma-csv-pro",
@@ -5141,7 +5783,8 @@
     "score": 0.783,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/pharma-csv-pro",
-    "rank": 643
+    "rank": 643,
+    "stars": 0
   },
   {
     "slug": "didit-database-validation",
@@ -5149,7 +5792,8 @@
     "score": 0.782,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/didit-database-validation",
-    "rank": 644
+    "rank": 644,
+    "stars": 0
   },
   {
     "slug": "security-network-hardening",
@@ -5157,7 +5801,8 @@
     "score": 0.782,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-network-hardening",
-    "rank": 645
+    "rank": 645,
+    "stars": 0
   },
   {
     "slug": "gitcode",
@@ -5165,7 +5810,8 @@
     "score": 0.781,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/gitcode",
-    "rank": 646
+    "rank": 646,
+    "stars": 1
   },
   {
     "slug": "devopsellence",
@@ -5173,7 +5819,8 @@
     "score": 0.781,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/devopsellence",
-    "rank": 647
+    "rank": 647,
+    "stars": 0
   },
   {
     "slug": "openclaw-security-check",
@@ -5181,7 +5828,8 @@
     "score": 0.78,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/openclaw-security-check",
-    "rank": 648
+    "rank": 648,
+    "stars": 0
   },
   {
     "slug": "check-deployment-status",
@@ -5189,7 +5837,8 @@
     "score": 0.776,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/check-deployment-status",
-    "rank": 649
+    "rank": 649,
+    "stars": 0
   },
   {
     "slug": "cloud-misconfig-scanner",
@@ -5197,7 +5846,8 @@
     "score": 0.776,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-misconfig-scanner",
-    "rank": 650
+    "rank": 650,
+    "stars": 0
   },
   {
     "slug": "web3dropper-verified-agent",
@@ -5205,7 +5855,8 @@
     "score": 0.774,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/web3dropper-verified-agent",
-    "rank": 651
+    "rank": 651,
+    "stars": 1
   },
   {
     "slug": "jiandaoyun",
@@ -5213,7 +5864,8 @@
     "score": 0.773,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/jiandaoyun",
-    "rank": 652
+    "rank": 652,
+    "stars": 0
   },
   {
     "slug": "firm-gateway-hardening-pack",
@@ -5221,7 +5873,8 @@
     "score": 0.773,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/firm-gateway-hardening-pack",
-    "rank": 653
+    "rank": 653,
+    "stars": 0
   },
   {
     "slug": "aiotnetwork-account-auth",
@@ -5229,7 +5882,8 @@
     "score": 0.773,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/aiotnetwork-account-auth",
-    "rank": 654
+    "rank": 654,
+    "stars": 0
   },
   {
     "slug": "baidu-search-cn",
@@ -5237,7 +5891,8 @@
     "score": 0.771,
     "category": "資料庫與API",
     "url": "https://clawhub.ai/skills/baidu-search-cn",
-    "rank": 655
+    "rank": 655,
+    "stars": 0
   },
   {
     "slug": "addtools",
@@ -5245,7 +5900,8 @@
     "score": 0.769,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/addtools",
-    "rank": 656
+    "rank": 656,
+    "stars": 0
   },
   {
     "slug": "ci-cd-compliance",
@@ -5253,7 +5909,8 @@
     "score": 0.768,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/ci-cd-compliance",
-    "rank": 657
+    "rank": 657,
+    "stars": 0
   },
   {
     "slug": "data-bird",
@@ -5261,7 +5918,8 @@
     "score": 0.768,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-bird",
-    "rank": 658
+    "rank": 658,
+    "stars": 0
   },
   {
     "slug": "moltstreet-portfolio",
@@ -5269,7 +5927,8 @@
     "score": 0.766,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/moltstreet-portfolio",
-    "rank": 659
+    "rank": 659,
+    "stars": 0
   },
   {
     "slug": "cloud-arch",
@@ -5277,7 +5936,8 @@
     "score": 0.764,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-arch",
-    "rank": 660
+    "rank": 660,
+    "stars": 0
   },
   {
     "slug": "web3dropper-crypto-price",
@@ -5285,7 +5945,8 @@
     "score": 0.764,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/web3dropper-crypto-price",
-    "rank": 661
+    "rank": 661,
+    "stars": 0
   },
   {
     "slug": "scatter-graphs",
@@ -5293,7 +5954,8 @@
     "score": 0.764,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/scatter-graphs",
-    "rank": 662
+    "rank": 662,
+    "stars": 0
   },
   {
     "slug": "cloudplus",
@@ -5301,7 +5963,8 @@
     "score": 0.763,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloudplus",
-    "rank": 663
+    "rank": 663,
+    "stars": 0
   },
   {
     "slug": "openclaw-pc-security",
@@ -5309,7 +5972,8 @@
     "score": 0.763,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/openclaw-pc-security",
-    "rank": 664
+    "rank": 664,
+    "stars": 0
   },
   {
     "slug": "data-analysis-1",
@@ -5317,7 +5981,8 @@
     "score": 0.763,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-analysis-1",
-    "rank": 665
+    "rank": 665,
+    "stars": 0
   },
   {
     "slug": "us-stock-analysis-automaton",
@@ -5325,7 +5990,8 @@
     "score": 0.762,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/us-stock-analysis-automaton",
-    "rank": 666
+    "rank": 666,
+    "stars": 0
   },
   {
     "slug": "plsql-package-analysis",
@@ -5333,7 +5999,8 @@
     "score": 0.762,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/plsql-package-analysis",
-    "rank": 667
+    "rank": 667,
+    "stars": 0
   },
   {
     "slug": "office-productivity",
@@ -5341,7 +6008,8 @@
     "score": 0.759,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/office-productivity",
-    "rank": 668
+    "rank": 668,
+    "stars": 0
   },
   {
     "slug": "us-stock-analysis-litiao",
@@ -5349,7 +6017,8 @@
     "score": 0.759,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/us-stock-analysis-litiao",
-    "rank": 669
+    "rank": 669,
+    "stars": 0
   },
   {
     "slug": "cloud-compliance-checker",
@@ -5357,7 +6026,8 @@
     "score": 0.757,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/cloud-compliance-checker",
-    "rank": 670
+    "rank": 670,
+    "stars": 0
   },
   {
     "slug": "clawgears-securityaudit",
@@ -5365,7 +6035,8 @@
     "score": 0.757,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/clawgears-securityaudit",
-    "rank": 671
+    "rank": 671,
+    "stars": 0
   },
   {
     "slug": "enterprise-ai-assistant-bundle",
@@ -5373,7 +6044,8 @@
     "score": 0.756,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/enterprise-ai-assistant-bundle",
-    "rank": 672
+    "rank": 672,
+    "stars": 0
   },
   {
     "slug": "verified-agent-identity-5",
@@ -5381,7 +6053,8 @@
     "score": 0.756,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/verified-agent-identity-5",
-    "rank": 673
+    "rank": 673,
+    "stars": 1
   },
   {
     "slug": "chat-analyzer",
@@ -5389,7 +6062,8 @@
     "score": 0.756,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/chat-analyzer",
-    "rank": 674
+    "rank": 674,
+    "stars": 0
   },
   {
     "slug": "security-audit-tianjin",
@@ -5397,7 +6071,8 @@
     "score": 0.754,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-audit-tianjin",
-    "rank": 675
+    "rank": 675,
+    "stars": 0
   },
   {
     "slug": "auto-data-analyzer-chen",
@@ -5405,7 +6080,8 @@
     "score": 0.752,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/auto-data-analyzer-chen",
-    "rank": 676
+    "rank": 676,
+    "stars": 0
   },
   {
     "slug": "smart-data-analyzer",
@@ -5413,7 +6089,8 @@
     "score": 0.751,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/smart-data-analyzer",
-    "rank": 677
+    "rank": 677,
+    "stars": null
   },
   {
     "slug": "data-model",
@@ -5421,7 +6098,8 @@
     "score": 0.749,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/data-model",
-    "rank": 678
+    "rank": 678,
+    "stars": 0
   },
   {
     "slug": "pack-business-tools",
@@ -5429,7 +6107,8 @@
     "score": 0.745,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/pack-business-tools",
-    "rank": 679
+    "rank": 679,
+    "stars": 0
   },
   {
     "slug": "huamu668-openclaw-security",
@@ -5437,7 +6116,8 @@
     "score": 0.745,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/huamu668-openclaw-security",
-    "rank": 680
+    "rank": 680,
+    "stars": 0
   },
   {
     "slug": "ob1-install",
@@ -5445,7 +6125,8 @@
     "score": 0.745,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/ob1-install",
-    "rank": 681
+    "rank": 681,
+    "stars": 0
   },
   {
     "slug": "qf-data-analyzer",
@@ -5453,7 +6134,8 @@
     "score": 0.745,
     "category": "資料分析",
     "url": "https://clawhub.ai/skills/qf-data-analyzer",
-    "rank": 682
+    "rank": 682,
+    "stars": 0
   },
   {
     "slug": "drission-agent",
@@ -5461,7 +6143,8 @@
     "score": 0.741,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/drission-agent",
-    "rank": 683
+    "rank": 683,
+    "stars": 0
   },
   {
     "slug": "deploy-contracts",
@@ -5469,7 +6152,8 @@
     "score": 0.74,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/deploy-contracts",
-    "rank": 684
+    "rank": 684,
+    "stars": 0
   },
   {
     "slug": "iteratools-api",
@@ -5477,7 +6161,8 @@
     "score": 0.74,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/iteratools-api",
-    "rank": 685
+    "rank": 685,
+    "stars": 0
   },
   {
     "slug": "yuyonghao-deployment-kit",
@@ -5485,7 +6170,8 @@
     "score": 0.734,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/yuyonghao-deployment-kit",
-    "rank": 686
+    "rank": 686,
+    "stars": 0
   },
   {
     "slug": "innerwarden-security",
@@ -5493,7 +6179,8 @@
     "score": 0.728,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/innerwarden-security",
-    "rank": 687
+    "rank": 687,
+    "stars": 1
   },
   {
     "slug": "clawdbot-security-suite-bak",
@@ -5501,7 +6188,8 @@
     "score": 0.726,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/clawdbot-security-suite-bak",
-    "rank": 688
+    "rank": 688,
+    "stars": 0
   },
   {
     "slug": "nxtsecure-openclaw",
@@ -5509,7 +6197,8 @@
     "score": 0.725,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/nxtsecure-openclaw",
-    "rank": 689
+    "rank": 689,
+    "stars": 1
   },
   {
     "slug": "agnic-authenticate-wallet",
@@ -5517,7 +6206,8 @@
     "score": 0.723,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/agnic-authenticate-wallet",
-    "rank": 690
+    "rank": 690,
+    "stars": 0
   },
   {
     "slug": "bu-bu-wei-ying",
@@ -5525,7 +6215,8 @@
     "score": 0.722,
     "category": "DevOps與雲端",
     "url": "https://clawhub.ai/skills/bu-bu-wei-ying",
-    "rank": 691
+    "rank": 691,
+    "stars": 0
   },
   {
     "slug": "sn-security-review",
@@ -5533,7 +6224,8 @@
     "score": 0.722,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/sn-security-review",
-    "rank": 692
+    "rank": 692,
+    "stars": 0
   },
   {
     "slug": "security-review",
@@ -5541,7 +6233,8 @@
     "score": 0.72,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-review",
-    "rank": 693
+    "rank": 693,
+    "stars": 0
   },
   {
     "slug": "ocmap-pairing-auth",
@@ -5549,7 +6242,8 @@
     "score": 0.717,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/ocmap-pairing-auth",
-    "rank": 694
+    "rank": 694,
+    "stars": 0
   },
   {
     "slug": "guardian-security",
@@ -5557,7 +6251,8 @@
     "score": 0.711,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/guardian-security",
-    "rank": 695
+    "rank": 695,
+    "stars": 1
   },
   {
     "slug": "agent-runtime-security",
@@ -5565,7 +6260,8 @@
     "score": 0.71,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/agent-runtime-security",
-    "rank": 696
+    "rank": 696,
+    "stars": 0
   },
   {
     "slug": "gi-security-audit",
@@ -5573,7 +6269,8 @@
     "score": 0.71,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/gi-security-audit",
-    "rank": 697
+    "rank": 697,
+    "stars": 0
   },
   {
     "slug": "peptide-design",
@@ -5581,7 +6278,8 @@
     "score": 0.689,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/peptide-design",
-    "rank": 698
+    "rank": 698,
+    "stars": 4
   },
   {
     "slug": "use-modular-wallets",
@@ -5589,7 +6287,8 @@
     "score": 0.689,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/use-modular-wallets",
-    "rank": 699
+    "rank": 699,
+    "stars": 0
   },
   {
     "slug": "claw-security-panel",
@@ -5597,7 +6296,8 @@
     "score": 0.679,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/claw-security-panel",
-    "rank": 700
+    "rank": 700,
+    "stars": 0
   },
   {
     "slug": "golang-security",
@@ -5605,7 +6305,8 @@
     "score": 0.661,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/golang-security",
-    "rank": 701
+    "rank": 701,
+    "stars": 0
   },
   {
     "slug": "mcp-oauth",
@@ -5613,7 +6314,8 @@
     "score": 0.657,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/mcp-oauth",
-    "rank": 702
+    "rank": 702,
+    "stars": 0
   },
   {
     "slug": "ai-tools-evaluator",
@@ -5621,7 +6323,8 @@
     "score": 0.651,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/ai-tools-evaluator",
-    "rank": 703
+    "rank": 703,
+    "stars": 0
   },
   {
     "slug": "openclaw-safe-audit",
@@ -5629,7 +6332,8 @@
     "score": 0.648,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/openclaw-safe-audit",
-    "rank": 704
+    "rank": 704,
+    "stars": 0
   },
   {
     "slug": "caremax-auth",
@@ -5637,7 +6341,8 @@
     "score": 0.635,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/caremax-auth",
-    "rank": 705
+    "rank": 705,
+    "stars": 0
   },
   {
     "slug": "security-essentials",
@@ -5645,7 +6350,8 @@
     "score": 0.634,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-essentials",
-    "rank": 706
+    "rank": 706,
+    "stars": 0
   },
   {
     "slug": "security-constitution",
@@ -5653,7 +6359,8 @@
     "score": 0.628,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-constitution",
-    "rank": 707
+    "rank": 707,
+    "stars": 0
   },
   {
     "slug": "wish-ssh-code-review",
@@ -5661,7 +6368,8 @@
     "score": 0.625,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/wish-ssh-code-review",
-    "rank": 708
+    "rank": 708,
+    "stars": 0
   },
   {
     "slug": "security-journey",
@@ -5669,7 +6377,8 @@
     "score": 0.625,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/security-journey",
-    "rank": 709
+    "rank": 709,
+    "stars": 0
   },
   {
     "slug": "soc2",
@@ -5677,7 +6386,8 @@
     "score": 0.617,
     "category": "安全與認證",
     "url": "https://clawhub.ai/skills/soc2",
-    "rank": 710
+    "rank": 710,
+    "stars": 0
   },
   {
     "slug": "openclaw-master-skills",
@@ -5685,7 +6395,8 @@
     "score": 0.553,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/openclaw-master-skills",
-    "rank": 711
+    "rank": 711,
+    "stars": 1
   },
   {
     "slug": "obsidian-semantic-search",
@@ -5693,7 +6404,8 @@
     "score": 0.354,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/obsidian-semantic-search",
-    "rank": 712
+    "rank": 712,
+    "stars": 1
   },
   {
     "slug": "toolweb-nist-csf-mapper",
@@ -5701,7 +6413,8 @@
     "score": 0.35,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/toolweb-nist-csf-mapper",
-    "rank": 713
+    "rank": 713,
+    "stars": 0
   },
   {
     "slug": "bitget-data",
@@ -5709,7 +6422,8 @@
     "score": 0.345,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/bitget-data",
-    "rank": 714
+    "rank": 714,
+    "stars": 0
   },
   {
     "slug": "openclaw-config-master",
@@ -5717,7 +6431,8 @@
     "score": 0.329,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/openclaw-config-master",
-    "rank": 715
+    "rank": 715,
+    "stars": 0
   },
   {
     "slug": "scientify",
@@ -5725,7 +6440,8 @@
     "score": 0.199,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/scientify",
-    "rank": 716
+    "rank": 716,
+    "stars": 0
   },
   {
     "slug": "office-document-specialist-suite-1-0-2",
@@ -5733,7 +6449,8 @@
     "score": 0.143,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/office-document-specialist-suite-1-0-2",
-    "rank": 717
+    "rank": 717,
+    "stars": 0
   },
   {
     "slug": "google-search-unlimited-v2",
@@ -5741,6 +6458,7 @@
     "score": 0.088,
     "category": "生產力工具",
     "url": "https://clawhub.ai/skills/google-search-unlimited-v2",
-    "rank": 718
+    "rank": 718,
+    "stars": 0
   }
 ]

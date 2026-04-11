@@ -5,4 +5,6 @@ export interface Skill {
   category: string;
   url: string;
   rank: number;
+  stars?: number;
+  githubUrl?: string;
 }
