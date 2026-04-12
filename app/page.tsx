@@ -18,8 +18,9 @@ const TOP_CATEGORIES = [
   { name: '資料分析', emoji: '📊', color: '#84cc16' },
 ];
 
-function SkillCard({ skill, index }: { skill: Skill; index: number }) {
+function SkillCard({ skill, index, lang }: { skill: Skill; index: number; lang: 'en' | 'zh' }) {
   const medal = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : null;
+  const description = lang === 'en' ? (skill.descriptionEn || '') : (skill.descriptionZh || '');
 
   return (
     <div className="group block bg-[#111111] border border-[#222222] rounded-xl p-4 hover:border-[#7c3aed] hover:bg-[#1a1a1a] transition-all duration-200">
@@ -48,6 +49,11 @@ function SkillCard({ skill, index }: { skill: Skill; index: number }) {
             </span>
             <span className="text-xs text-[#555555] font-mono">{skill.slug}</span>
           </div>
+          {description ? (
+            <p className="text-xs text-[#666666] mt-2 leading-relaxed line-clamp-2">
+              {description}
+            </p>
+          ) : null}
           <div className="flex items-center gap-3 mt-2 text-xs text-[#888888] flex-wrap">
             <span>⭐ {skill.stars ?? '—'}</span>
             {skill.githubUrl ? (
@@ -74,6 +80,7 @@ function SkillCard({ skill, index }: { skill: Skill; index: number }) {
 export default function HomePage() {
   const [query, setQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState<string>('全部');
+  const [lang, setLang] = useState<'en' | 'zh'>('zh');
   const filtered = useMemo(
     () => filterSkills(skills, query, activeCategory as any),
     [query, activeCategory]
@@ -107,6 +114,14 @@ export default function HomePage() {
                 className="w-full bg-[#111111] border border-[#222222] rounded-lg pl-9 pr-4 py-2 text-sm text-[#ededed] placeholder-[#444444] focus:outline-none focus:border-[#7c3aed] transition-colors"
               />
             </div>
+          </div>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => setLang(lang === 'en' ? 'zh' : 'en')}
+              className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg bg-[#111111] border border-[#222222] text-[#888888] hover:text-[#ededed] hover:border-[#7c3aed] transition-colors"
+            >
+              <span>{lang === 'en' ? '🌐 EN' : '🌐 中文'}</span>
+            </button>
           </div>
           <div className="flex-shrink-0 text-xs text-[#444444] hidden lg:block">
             {skills.length} skills
@@ -211,6 +226,7 @@ export default function HomePage() {
                   key={skill.slug}
                   skill={skill}
                   index={query || activeCategory !== '全部' ? i : skill.rank - 1}
+                  lang={lang}
                 />
               ))}
             </div>
